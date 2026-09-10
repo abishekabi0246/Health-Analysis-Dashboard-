@@ -1,0 +1,1182 @@
+Patient_ID,Age,Gender,Department,Admission_Type,Admission_Date,Discharge_Date,Length_of_Stay,Diagnosis_Category,Treatment_Type,Doctor_Experience,Waiting_Time_Minutes,Treatment_Cost,Insurance_Type,Payment_Status,Readmission,Patient_Satisfaction,Emergency_Case
+P10832,55,Female,Orthopedics,Emergency,2023-09-13,2023-09-16,3,Fracture,Medication,5,89,390.34,Private,Paid,No,3,Yes
+P10917,3,Female,General Medicine,Emergency,2024-05-28,2024-05-31,3,Diabetes,Medication,8,17,390.34,Private,Paid,No,1,Yes
+P10516,29,Female,Pediatrics,Walk-in,2024-09-23,2024-09-27,4,Respiratory,Surgery,10,81,4155.92,Private,Paid,No,4,No
+P10503,0,Male,Emergency,Walk-in,2023-03-29,2023-04-01,3,Fracture,Surgery,16,21,2648.07,Self Pay,Unpaid,No,5,Yes
+P10492,22,Female,Neurology,Emergency,2023-01-07,2023-01-09,2,Neurological,Therapy,7,6,427.62,Private,Pending,No,5,Yes
+P11034,45,Unknown,Cardiology,Walk-in,2023-07-09,2023-07-12,3,General,Surgery,9,21,390.34,Private,Paid,Yes,4,No
+P10246,68,Male,Neurology,Emergency,2024-12-19,2024-12-22,3,Neurological,Therapy,11,53,612.34,Private,Paid,Yes,5,Yes
+P10117,59,Female,Emergency,Walk-in,2023-02-22,2023-02-27,5,Respiratory,Therapy,10,48,409.47,Private,Paid,No,4,No
+P10970,36,Male,General Medicine,Walk-in,2023-09-02,2023-09-10,8,General,Medication,18,14,306.67,Private,Paid,No,2,Yes
+P10914,59,Female,Orthopedics,Emergency,2024-07-03,2024-07-06,3,General,Observation,14,12,168.86,Private,Paid,No,1,Yes
+P10714,58,Female,Orthopedics,Scheduled,2024-02-02,2024-02-08,6,Fracture,Medication,13,11,286.56,Government,Paid,No,5,No
+P10957,30,Male,Orthopedics,Emergency,2024-01-10,2024-01-13,3,Fracture,Medication,7,127,220.16,Private,Paid,No,2,Yes
+P10686,19,Female,Orthopedics,Walk-in,2024-01-07,2024-01-11,4,General,Therapy,11,4,679.06,Private,Paid,No,1,No
+P10931,34,Male,General Medicine,Emergency,2024-05-21,2024-05-26,5,Respiratory,Observation,2,11,117.26,Self Pay,Pending,No,3,Yes
+P10510,43,Male,Pediatrics,Walk-in,2023-10-10,2023-10-16,6,General,Observation,15,27,212.94,Private,Unpaid,No,3,No
+P10531,49,Female,Emergency,Scheduled,2024-08-14,2024-08-17,3,Fracture,Medication,6,27,128.01,Private,Paid,No,4,No
+P10296,47,Male,Emergency,Walk-in,2023-03-28,2023-03-30,2,Heart Disease,Observation,0,1,120.63,Private,Paid,Yes,4,No
+P10144,32,Female,Pediatrics,Emergency,2023-05-08,2023-05-15,7,Respiratory,Therapy,10,50,666.28,Government,Unpaid,Yes,4,Yes
+P10161,65,Male,Cardiology,Walk-in,2024-08-10,2024-08-15,5,General,Observation,13,43,179.17,Government,Paid,No,2,No
+P11165,34,Female,Pediatrics,Emergency,2023-06-01,2023-06-04,3,Respiratory,Observation,12,1,215.75,Private,Paid,No,4,Yes
+P10624,18,Female,Cardiology,Scheduled,2023-08-26,2023-08-29,3,General,Therapy,12,3,625.28,Government,Paid,No,5,No
+P10404,53,Male,Cardiology,Emergency,2024-07-20,2024-07-23,3,Heart Disease,Medication,5,24,275.79,Self Pay,Paid,No,5,Yes
+P10670,57,Female,Orthopedics,Walk-in,2024-10-25,2024-10-28,3,Fracture,Medication,5,29,273.99,Government,Paid,No,4,Yes
+P10352,44,Female,Orthopedics,Walk-in,2023-12-17,2023-12-20,3,General,Surgery,2,5,5138.49,Government,Pending,No,2,No
+P11097,23,Male,Emergency,Walk-in,2023-02-09,2023-02-13,4,General,Therapy,7,35,553.49,Private,Paid,No,5,No
+P10613,13,Female,Emergency,Scheduled,2023-04-11,2023-04-12,1,Heart Disease,Medication,2,11,87.71,Self Pay,Pending,No,4,No
+P10155,42,Female,Cardiology,Scheduled,2024-11-02,2024-11-05,3,Heart Disease,Therapy,3,81,513.76,Government,Pending,No,5,No
+P10782,24,Male,Cardiology,Scheduled,2023-08-18,2023-08-23,5,General,Observation,10,18,116.67,Government,Paid,No,2,No
+P10683,33,Female,Pediatrics,Scheduled,2024-06-21,2024-06-28,7,Respiratory,Surgery,12,23,2784.43,Self Pay,Paid,No,3,No
+P10398,44,Male,Pediatrics,Walk-in,2024-06-30,2024-07-04,4,Respiratory,Surgery,2,38,749.26,Self Pay,Paid,No,4,No
+P10786,60,Female,Cardiology,Walk-in,2024-01-22,2024-01-25,3,Heart Disease,Surgery,11,28,2030.28,Private,Unpaid,No,3,No
+P10301,48,Female,Orthopedics,Scheduled,2023-02-01,2023-02-03,2,Fracture,Medication,11,45,61.28,Government,Paid,No,2,No
+P10895,46,Male,Pediatrics,Walk-in,2024-07-19,2024-07-22,3,General,Therapy,15,23,296.64,Private,Pending,No,4,No
+P10709,62,Male,Pediatrics,Walk-in,2023-10-07,2023-10-12,5,Respiratory,Surgery,14,27,390.34,Government,Unpaid,No,4,No
+P10226,43,Female,Neurology,Emergency,2023-01-18,2023-01-21,3,Neurological,Medication,7,42,199.9,Self Pay,Paid,No,4,Yes
+P10173,69,Female,Cardiology,Scheduled,2023-06-11,2023-06-13,2,General,Observation,19,23,160.98,Private,Paid,Yes,5,No
+P11054,67,Male,Cardiology,Walk-in,2023-05-05,2023-05-07,2,Heart Disease,Surgery,7,18,4474.59,Self Pay,Pending,No,3,No
+P10484,36,Female,Pediatrics,Walk-in,2024-10-19,2024-10-22,3,General,Therapy,13,52,760.59,Private,Paid,No,2,No
+P10583,51,Male,Pediatrics,Walk-in,2023-07-09,2023-07-13,4,Respiratory,Therapy,15,68,333.59,Government,Paid,No,4,No
+P11189,0,Male,Neurology,Scheduled,2023-04-25,2023-04-30,5,General,Medication,10,12,410.89,Private,Paid,No,5,No
+P10956,44,Female,Cardiology,Scheduled,2024-12-13,2024-12-16,3,Heart Disease,Medication,19,4,343.12,Self Pay,Paid,No,4,No
+P10672,0,Male,Cardiology,Walk-in,2024-05-15,2024-05-19,4,Heart Disease,Therapy,4,101,535.52,Government,Paid,No,3,No
+P10064,43,Male,Emergency,Walk-in,2023-10-10,2023-10-15,5,Heart Disease,Medication,9,4,292.09,Private,Pending,No,5,No
+P10451,43,Male,Cardiology,Walk-in,2023-10-04,2023-10-07,3,General,Observation,7,35,236.76,Private,Paid,No,2,No
+P10293,37,Male,Emergency,Emergency,2024-07-13,2024-07-18,5,Fracture,Observation,22,63,246.93,Private,Paid,No,5,Yes
+P11066,54,Male,Emergency,Emergency,2023-08-31,2023-09-04,4,General,Observation,8,6,284.46,Private,Paid,No,1,Yes
+P10573,3,Male,Neurology,Emergency,2024-05-11,2024-05-12,1,Neurological,Therapy,8,75,505.12,Government,Paid,No,5,Yes
+P11155,54,Female,General Medicine,Scheduled,2024-03-11,2024-03-13,2,Respiratory,Medication,8,38,390.34,Private,Paid,No,4,No
+P10727,75,Male,Cardiology,Emergency,2024-04-05,2024-04-10,5,General,Observation,6,35,54.79,Private,Paid,Yes,5,Yes
+P10644,66,Male,Emergency,Walk-in,2023-07-07,2023-07-09,2,Heart Disease,Therapy,2,37,550.02,Government,Pending,No,3,No
+P10656,61,Male,General Medicine,Scheduled,2023-04-23,2023-04-26,3,Respiratory,Therapy,18,4,250.43,Self Pay,Pending,Yes,4,No
+P10215,55,Female,Emergency,Emergency,2023-05-28,2023-06-01,4,General,Observation,6,18,122.2,Self Pay,Paid,No,3,Yes
+P10496,61,Female,Neurology,Scheduled,2023-12-23,2023-12-25,2,Neurological,Surgery,0,13,4167.44,Self Pay,Paid,No,1,No
+P10669,50,Female,Emergency,Emergency,2023-12-16,2023-12-19,3,General,Therapy,8,12,507.97,Government,Paid,Yes,3,Yes
+P10406,52,Male,Cardiology,Walk-in,2023-07-05,2023-07-09,4,General,Medication,5,19,272.52,Government,Paid,No,3,No
+P10719,27,Female,Cardiology,Scheduled,2024-06-06,2024-06-08,2,Heart Disease,Observation,0,1,249.8,Self Pay,Pending,No,4,No
+P10984,48,Male,Emergency,Emergency,2023-11-21,2023-11-25,4,General,Surgery,9,24,3238.95,Government,Pending,Yes,5,Yes
+P11198,29,Female,Cardiology,Emergency,2024-09-11,2024-09-17,6,General,Therapy,14,16,565.6,Private,Paid,Yes,4,Yes
+P10757,28,Female,General Medicine,Walk-in,2024-08-09,2024-08-12,3,Respiratory,Therapy,7,10,215.27,Government,Paid,No,4,No
+P10391,50,Male,Orthopedics,Scheduled,2023-06-27,2023-06-29,2,Fracture,Observation,14,108,283.47,Government,Paid,Yes,4,No
+P10054,82,Male,Orthopedics,Emergency,2024-04-17,2024-04-21,4,General,Observation,9,29,268.34,Government,Paid,No,5,Yes
+P11024,68,Male,Orthopedics,Emergency,2024-12-12,2024-12-17,5,General,Medication,4,85,455.49,Private,Paid,No,5,Yes
+P10940,54,Male,Orthopedics,Emergency,2024-02-08,2024-02-10,2,Fracture,Medication,2,28,449.59,Government,Paid,No,5,Yes
+P10018,60,Male,Cardiology,Emergency,2023-03-14,2023-03-18,4,Heart Disease,Medication,13,2,530.0,Government,Paid,No,4,Yes
+P10168,13,Male,Pediatrics,Emergency,2024-10-17,2024-10-19,2,General,Medication,4,22,357.86,Private,Paid,No,3,Yes
+P10715,26,Male,Emergency,Scheduled,2024-09-09,2024-09-13,4,Fracture,Therapy,16,45,372.78,Self Pay,Paid,No,4,No
+P10657,40,Female,General Medicine,Walk-in,2024-09-06,2024-09-11,5,Respiratory,Surgery,12,51,5193.46,Self Pay,Paid,No,4,No
+P10620,45,Male,General Medicine,Emergency,2023-10-11,2023-10-17,6,Respiratory,Therapy,0,35,339.68,Government,Paid,No,2,Yes
+P10876,47,Male,Cardiology,Walk-in,2024-02-09,2024-02-10,1,General,Therapy,2,17,384.99,Private,Pending,No,4,No
+P10658,20,Female,General Medicine,Emergency,2024-11-26,2024-12-01,5,Diabetes,Observation,6,3,140.55,Self Pay,Paid,No,4,Yes
+P10108,30,Male,Cardiology,Walk-in,2024-07-21,2024-07-24,3,Heart Disease,Surgery,0,13,2882.19,Government,Pending,No,4,No
+P10426,40,Female,Emergency,Walk-in,2024-10-26,2024-10-29,3,General,Therapy,0,83,601.89,Private,Paid,No,5,No
+P10742,66,Female,Neurology,Emergency,2023-11-19,2023-11-24,5,General,Medication,9,33,277.8,Government,Pending,No,4,Yes
+P10650,26,Female,Cardiology,Emergency,2024-05-10,2024-05-13,3,Heart Disease,Medication,3,3,356.87,Private,Pending,No,2,Yes
+P10842,80,Female,General Medicine,Emergency,2024-10-25,2024-10-28,3,Diabetes,Therapy,12,16,290.6,Government,Paid,No,5,Yes
+P10631,66,Male,General Medicine,Walk-in,2023-02-11,2023-02-16,5,General,Medication,15,54,439.69,Government,Paid,No,3,No
+P10520,21,Male,General Medicine,Walk-in,2024-09-18,2024-09-20,2,Diabetes,Observation,8,11,168.22,Government,Pending,Yes,5,No
+P10755,76,Female,Cardiology,Scheduled,2024-01-16,2024-01-20,4,General,Therapy,8,47,670.11,Government,Paid,Yes,5,No
+P10003,26,Female,Emergency,Emergency,2024-12-19,2024-12-22,3,General,Therapy,1,18,389.84,Private,Pending,No,4,Yes
+P10826,24,Male,Orthopedics,Walk-in,2023-09-16,2023-09-17,1,Fracture,Observation,7,19,114.96,Private,Paid,No,5,No
+P10043,59,Female,Orthopedics,Scheduled,2024-03-16,2024-03-23,7,General,Observation,13,139,74.86,Self Pay,Paid,No,5,No
+P10591,40,Male,General Medicine,Scheduled,2024-11-07,2024-11-09,2,General,Observation,0,5,118.92,Private,Paid,No,2,No
+P10087,70,Male,Neurology,Walk-in,2023-07-13,2023-07-19,6,General,Surgery,7,4,5059.78,Government,Paid,No,5,No
+P10648,41,Female,Neurology,Walk-in,2023-05-23,2023-05-26,3,General,Surgery,14,5,4371.86,Self Pay,Paid,No,2,No
+P10373,81,Female,Cardiology,Emergency,2024-05-18,2024-05-25,7,General,Therapy,8,9,389.7,Private,Paid,No,4,Yes
+P10214,75,Female,Neurology,Scheduled,2024-12-14,2024-12-17,3,Neurological,Therapy,6,21,635.0,Government,Paid,No,3,No
+P10543,76,Male,Cardiology,Scheduled,2024-05-23,2024-05-24,1,General,Therapy,10,81,471.24,Private,Paid,No,4,Yes
+P10431,0,Female,General Medicine,Walk-in,2023-09-17,2023-09-18,1,Respiratory,Observation,6,5,211.24,Self Pay,Paid,No,2,No
+P10799,44,Female,Emergency,Walk-in,2023-05-21,2023-05-28,7,Fracture,Therapy,10,4,284.32,Private,Paid,No,5,No
+P10881,27,Female,Emergency,Emergency,2023-07-19,2023-07-23,4,Heart Disease,Therapy,16,32,584.1,Self Pay,Pending,Yes,5,Yes
+P10066,39,Female,General Medicine,Scheduled,2024-07-20,2024-07-24,4,General,Therapy,5,2,390.34,Government,Pending,No,3,No
+P10778,1,Female,Cardiology,Walk-in,2023-10-15,2023-10-17,2,Heart Disease,Medication,10,1,315.68,Private,Unpaid,No,2,No
+P10267,55,Male,General Medicine,Scheduled,2023-03-19,2023-03-24,5,General,Therapy,0,5,803.19,Self Pay,Unpaid,No,5,No
+P10886,44,Male,Emergency,Scheduled,2024-01-20,2024-01-22,2,General,Therapy,9,12,619.58,Self Pay,Paid,No,2,No
+P10863,63,Female,Neurology,Scheduled,2024-09-10,2024-09-14,4,General,Therapy,2,5,651.12,Government,Pending,No,4,No
+P10655,42,Male,Emergency,Scheduled,2023-04-20,2023-04-25,5,General,Observation,8,72,297.52,Private,Paid,No,5,No
+P10334,17,Male,Neurology,Walk-in,2024-02-17,2024-02-22,5,General,Medication,5,17,397.86,Government,Pending,No,3,No
+P10408,62,Female,Pediatrics,Walk-in,2024-11-06,2024-11-10,4,Respiratory,Therapy,21,231,254.82,Government,Unpaid,No,3,No
+P10983,8,Female,Emergency,Emergency,2024-08-07,2024-08-10,3,Heart Disease,Medication,17,17,150.48,Self Pay,Paid,No,3,Yes
+P10676,20,Male,General Medicine,Emergency,2024-11-18,2024-11-19,1,General,Surgery,15,0,4737.66,Self Pay,Paid,No,5,Yes
+P10933,41,Female,Orthopedics,Walk-in,2023-10-31,2023-11-04,4,Fracture,Surgery,7,5,4742.96,Private,Paid,No,1,No
+P11121,75,Male,Emergency,Scheduled,2023-11-19,2023-11-23,4,Fracture,Therapy,11,32,655.99,Private,Pending,No,5,Yes
+P10254,41,Female,Pediatrics,Scheduled,2023-07-11,2023-07-18,7,Respiratory,Observation,7,8,210.28,Private,Paid,No,4,No
+P10130,50,Male,Emergency,Walk-in,2023-03-19,2023-03-24,5,General,Observation,8,36,171.67,Self Pay,Pending,No,5,No
+P10781,29,Male,Emergency,Scheduled,2024-11-20,2024-11-23,3,General,Observation,15,43,155.61,Government,Paid,No,4,No
+P10421,34,Female,Cardiology,Emergency,2023-06-20,2023-06-26,6,General,Medication,7,12,428.42,Self Pay,Pending,No,5,Yes
+P10717,50,Male,Emergency,Scheduled,2023-08-18,2023-08-22,4,Fracture,Therapy,9,38,825.14,Government,Paid,No,4,No
+P10125,58,Female,Orthopedics,Emergency,2024-05-27,2024-05-31,4,General,Medication,3,2,298.28,Government,Paid,No,5,Yes
+P10308,7,Female,Orthopedics,Emergency,2023-01-31,2023-02-02,2,General,Therapy,8,7,284.38,Self Pay,Unpaid,No,2,Yes
+P10208,22,Male,Neurology,Walk-in,2023-05-02,2023-05-04,2,General,Surgery,5,38,1068.23,Self Pay,Unpaid,No,5,No
+P10743,44,Female,Pediatrics,Scheduled,2023-03-01,2023-03-05,4,General,Therapy,0,2,524.04,Self Pay,Pending,No,1,No
+P10604,0,Male,Orthopedics,Emergency,2023-06-13,2023-06-16,3,General,Therapy,9,25,575.26,Private,Paid,No,5,Yes
+P11133,31,Male,Orthopedics,Scheduled,2023-10-25,2023-10-30,5,General,Observation,8,19,254.88,Private,Paid,No,1,No
+P10563,60,Female,Cardiology,Walk-in,2023-08-29,2023-09-02,4,General,Therapy,2,54,293.61,Self Pay,Paid,No,4,No
+P10703,56,Male,Pediatrics,Scheduled,2023-02-12,2023-02-15,3,Respiratory,Observation,13,10,269.56,Government,Pending,Yes,3,No
+P10366,51,Female,Neurology,Scheduled,2024-11-24,2024-11-29,5,Neurological,Medication,5,14,293.33,Private,Paid,Yes,4,No
+P10235,41,Female,Emergency,Scheduled,2023-06-07,2023-06-12,5,Respiratory,Medication,17,13,436.18,Private,Paid,No,4,No
+P10999,80,Female,Emergency,Walk-in,2024-01-23,2024-01-28,5,Fracture,Therapy,9,2,625.04,Private,Unpaid,No,4,No
+P10735,29,Female,Cardiology,Emergency,2023-12-12,2023-12-17,5,Heart Disease,Medication,10,81,374.14,Self Pay,Paid,No,3,Yes
+P10258,57,Male,Orthopedics,Scheduled,2024-07-22,2024-07-25,3,General,Surgery,3,1,4151.98,Private,Paid,No,2,No
+P10147,20,Female,Orthopedics,Scheduled,2024-12-23,2024-12-29,6,Fracture,Medication,1,131,136.01,Private,Paid,No,4,No
+P10833,58,Male,Orthopedics,Emergency,2024-11-27,2024-12-01,4,Fracture,Surgery,4,6,2024.88,Self Pay,Paid,No,2,Yes
+P10416,15,Female,Emergency,Walk-in,2023-10-08,2023-10-15,7,Heart Disease,Observation,15,138,303.09,Self Pay,Paid,No,5,No
+P10145,24,Female,Orthopedics,Emergency,2024-04-06,2024-04-11,5,General,Medication,6,46,297.44,Government,Paid,No,5,Yes
+P11040,64,Female,Orthopedics,Emergency,2024-01-01,2024-01-08,7,Fracture,Observation,10,9,317.15,Government,Paid,Yes,5,Yes
+P10026,40,Male,Pediatrics,Scheduled,2023-03-11,2023-03-17,6,Respiratory,Surgery,4,1,5368.05,Self Pay,Paid,No,4,No
+P10154,69,Female,Cardiology,Walk-in,2023-11-20,2023-11-26,6,General,Observation,8,1,161.43,Government,Paid,No,3,No
+P11076,18,Male,Emergency,Scheduled,2023-03-05,2023-03-07,2,Fracture,Medication,2,17,179.07,Government,Unpaid,No,4,No
+P10351,45,Male,Cardiology,Walk-in,2024-04-28,2024-04-29,1,Heart Disease,Observation,0,1,255.52,Self Pay,Paid,Yes,5,No
+P10708,7,Male,General Medicine,Emergency,2023-04-26,2023-04-30,4,Respiratory,Medication,12,31,405.17,Private,Pending,No,3,Yes
+P10594,44,Female,Orthopedics,Walk-in,2024-10-31,2024-11-08,8,Fracture,Surgery,0,102,3279.07,Private,Paid,Yes,4,No
+P10775,23,Female,Emergency,Walk-in,2024-05-15,2024-05-19,4,Fracture,Medication,9,8,283.51,Self Pay,Paid,No,4,No
+P11009,30,Female,Orthopedics,Walk-in,2023-02-04,2023-02-09,5,General,Therapy,20,25,269.8,Self Pay,Pending,No,5,No
+P11180,62,Male,Orthopedics,Scheduled,2023-08-30,2023-09-05,6,Fracture,Surgery,5,46,3840.97,Private,Paid,No,4,No
+P10705,24,Female,Neurology,Walk-in,2023-09-27,2023-10-02,5,General,Observation,0,1,125.5,Private,Paid,No,5,No
+P10882,27,Male,Neurology,Walk-in,2024-04-13,2024-04-16,3,Neurological,Observation,4,64,261.83,Self Pay,Paid,No,3,No
+P10288,27,Male,Orthopedics,Walk-in,2023-09-19,2023-09-21,2,Fracture,Surgery,1,55,2853.04,Self Pay,Paid,Yes,5,No
+P11177,12,Male,Orthopedics,Scheduled,2024-06-03,2024-06-06,3,General,Therapy,12,93,413.51,Self Pay,Paid,Yes,4,No
+P10823,8,Female,General Medicine,Scheduled,2023-12-22,2023-12-29,7,General,Surgery,11,1,5199.43,Government,Paid,No,5,No
+P11091,14,Female,Cardiology,Walk-in,2024-07-20,2024-07-20,0,General,Observation,3,37,149.26,Government,Paid,No,4,No
+P10318,58,Female,Emergency,Scheduled,2024-11-17,2024-11-24,7,Fracture,Therapy,14,87,449.15,Private,Paid,Yes,3,No
+P10102,80,Female,Emergency,Walk-in,2024-11-19,2024-11-24,5,General,Therapy,0,29,606.05,Private,Paid,No,4,No
+P10481,45,Female,Emergency,Walk-in,2024-06-02,2024-06-07,5,Heart Disease,Medication,9,21,390.34,Self Pay,Pending,No,4,No
+P10682,25,Male,General Medicine,Scheduled,2024-01-08,2024-01-12,4,General,Surgery,10,2,4778.99,Private,Paid,No,5,No
+P10302,26,Male,Orthopedics,Scheduled,2023-05-14,2023-05-16,2,General,Medication,5,19,216.31,Self Pay,Paid,No,2,No
+P10612,39,Male,Orthopedics,Scheduled,2024-08-10,2024-08-15,5,Fracture,Medication,15,1,205.49,Government,Pending,No,4,No
+P11020,14,Male,Neurology,Emergency,2023-02-14,2023-02-17,3,General,Medication,0,11,380.8,Government,Paid,No,5,Yes
+P10202,5,Male,Orthopedics,Walk-in,2023-09-11,2023-09-16,5,General,Therapy,11,31,471.2,Private,Unpaid,Yes,5,No
+P10847,28,Female,General Medicine,Emergency,2024-03-08,2024-03-13,5,Respiratory,Medication,11,23,126.58,Government,Paid,Yes,5,Yes
+P11161,36,Male,Emergency,Walk-in,2023-02-28,2023-03-03,3,General,Observation,19,29,264.0,Government,Paid,No,4,No
+P11153,4,Female,Cardiology,Scheduled,2023-05-10,2023-05-10,0,General,Observation,10,5,194.9,Private,Paid,No,5,No
+P10273,49,Male,Orthopedics,Walk-in,2024-08-30,2024-09-02,3,General,Medication,0,20,410.89,Private,Paid,No,5,No
+P11065,40,Male,Emergency,Emergency,2023-06-12,2023-06-14,2,Fracture,Observation,11,2,237.22,Self Pay,Paid,No,5,Yes
+P11172,33,Female,Neurology,Emergency,2024-10-23,2024-10-27,4,General,Therapy,12,2,491.18,Private,Paid,No,3,Yes
+P10305,21,Male,General Medicine,Walk-in,2023-06-02,2023-06-06,4,General,Surgery,15,12,3672.37,Self Pay,Paid,No,4,No
+P10581,26,Male,Cardiology,Walk-in,2024-06-21,2024-06-25,4,General,Therapy,10,1,481.74,Private,Pending,No,1,No
+P10687,36,Male,Cardiology,Scheduled,2024-12-08,2024-12-11,3,General,Therapy,11,21,612.98,Self Pay,Unpaid,No,5,No
+P10616,58,Female,Emergency,Walk-in,2023-03-14,2023-03-16,2,Respiratory,Medication,9,7,426.54,Government,Paid,No,5,No
+P10049,56,Male,Pediatrics,Emergency,2023-03-24,2023-03-27,3,Respiratory,Observation,15,2,98.63,Self Pay,Paid,No,4,Yes
+P10194,79,Male,Orthopedics,Emergency,2024-03-03,2024-03-08,5,General,Observation,16,17,121.54,Private,Unpaid,No,5,Yes
+P10477,0,Male,Emergency,Scheduled,2023-03-03,2023-03-08,5,Heart Disease,Medication,2,81,245.46,Private,Paid,No,4,No
+P10946,0,Male,Emergency,Walk-in,2023-10-21,2023-10-24,3,General,Medication,0,10,464.48,Government,Paid,Yes,2,No
+P11163,16,Male,General Medicine,Scheduled,2024-10-14,2024-10-16,2,Diabetes,Therapy,15,1,454.43,Private,Paid,No,3,No
+P11110,34,Male,Orthopedics,Walk-in,2024-02-16,2024-02-18,2,General,Medication,8,45,473.54,Government,Pending,No,4,No
+P10326,73,Female,General Medicine,Scheduled,2023-07-09,2023-07-11,2,Respiratory,Surgery,13,10,1895.69,Government,Paid,No,3,No
+P11179,22,Female,Orthopedics,Scheduled,2023-12-21,2023-12-25,4,Fracture,Observation,11,36,190.08,Private,Paid,No,3,No
+P10685,15,Female,Pediatrics,Walk-in,2023-02-27,2023-03-02,3,General,Medication,17,46,369.42,Government,Paid,No,3,No
+P11068,41,Male,Pediatrics,Scheduled,2023-07-24,2023-07-29,5,General,Observation,14,14,79.94,Self Pay,Paid,No,3,No
+P10567,21,Male,General Medicine,Walk-in,2024-09-11,2024-09-15,4,Respiratory,Surgery,13,7,3869.88,Self Pay,Paid,No,4,No
+P10031,35,Female,Pediatrics,Emergency,2023-08-04,2023-08-10,6,General,Observation,10,0,74.81,Government,Unpaid,No,2,Yes
+P10004,56,Male,Neurology,Scheduled,2023-06-09,2023-06-12,3,Neurological,Medication,3,2,339.45,Government,Paid,No,4,No
+P10178,53,Female,Emergency,Scheduled,2024-01-10,2024-01-12,2,Fracture,Observation,13,5,205.32,Private,Paid,No,4,No
+P10343,44,Female,Neurology,Scheduled,2024-12-30,2025-01-04,5,General,Therapy,8,2,555.39,Government,Paid,No,4,No
+P10137,48,Female,Emergency,Emergency,2024-12-16,2024-12-21,5,Fracture,Therapy,14,47,319.62,Self Pay,Paid,No,5,Yes
+P10448,30,Male,Neurology,Emergency,2024-12-06,2024-12-10,4,Neurological,Observation,15,2,174.16,Self Pay,Paid,No,5,Yes
+P10665,45,Unknown,Cardiology,Scheduled,2024-03-16,2024-03-17,1,General,Therapy,9,21,390.34,Government,Paid,Yes,4,No
+P10737,44,Male,Cardiology,Walk-in,2024-09-17,2024-09-20,3,Heart Disease,Medication,1,90,170.47,Private,Paid,No,5,No
+P10817,72,Female,General Medicine,Emergency,2024-10-16,2024-10-19,3,Diabetes,Medication,7,44,118.32,Self Pay,Paid,Yes,4,Yes
+P10859,45,Male,Orthopedics,Emergency,2023-07-10,2023-07-14,4,Fracture,Surgery,20,67,4960.2,Government,Unpaid,No,4,Yes
+P10078,55,Male,Emergency,Walk-in,2024-08-12,2024-08-15,3,Respiratory,Medication,11,8,50.0,Private,Paid,No,5,No
+P10023,48,Female,Cardiology,Emergency,2023-06-18,2023-06-21,3,General,Therapy,2,35,291.52,Government,Paid,No,5,Yes
+P10804,37,Female,Pediatrics,Walk-in,2024-12-12,2024-12-16,4,General,Observation,1,25,201.1,Government,Paid,No,5,No
+P10851,41,Female,Cardiology,Walk-in,2023-05-08,2023-05-11,3,Heart Disease,Surgery,16,12,3742.77,Government,Unpaid,No,5,No
+P10455,67,Male,Pediatrics,Scheduled,2024-08-12,2024-08-16,4,General,Therapy,11,6,532.41,Self Pay,Paid,No,4,No
+P11031,35,Male,Cardiology,Walk-in,2024-11-28,2024-11-30,2,Heart Disease,Medication,9,15,360.91,Private,Paid,No,4,No
+P10438,70,Female,Emergency,Scheduled,2024-07-26,2024-07-31,5,Respiratory,Surgery,9,21,5706.56,Self Pay,Unpaid,No,4,Yes
+P10855,47,Male,Orthopedics,Scheduled,2024-03-09,2024-03-13,4,General,Therapy,0,24,353.09,Self Pay,Unpaid,No,4,No
+P10961,42,Male,General Medicine,Scheduled,2023-05-09,2023-05-12,3,General,Medication,11,98,270.89,Private,Paid,No,5,No
+P10255,30,Female,Pediatrics,Walk-in,2024-02-02,2024-02-04,2,Respiratory,Therapy,12,14,123.43,Government,Pending,No,5,No
+P11099,75,Female,Orthopedics,Walk-in,2023-11-30,2023-12-03,3,General,Medication,3,45,556.08,Self Pay,Paid,No,1,No
+P10790,39,Female,Pediatrics,Scheduled,2023-05-10,2023-05-11,1,General,Observation,8,17,314.57,Self Pay,Paid,No,2,Yes
+P10495,48,Male,Orthopedics,Walk-in,2024-05-14,2024-05-18,4,General,Medication,1,31,248.76,Self Pay,Pending,No,5,No
+P10500,44,Female,Orthopedics,Walk-in,2024-05-14,2024-05-16,2,Fracture,Surgery,17,146,3121.76,Private,Paid,No,3,No
+P10141,55,Male,Orthopedics,Scheduled,2024-03-24,2024-03-28,4,General,Surgery,20,1,4291.74,Government,Paid,No,5,No
+P11100,61,Female,Neurology,Walk-in,2023-12-10,2023-12-13,3,General,Observation,5,21,148.77,Government,Paid,No,1,No
+P11042,56,Female,Pediatrics,Scheduled,2024-03-03,2024-03-07,4,Respiratory,Medication,16,23,61.16,Self Pay,Paid,No,4,No
+P10234,39,Female,Emergency,Emergency,2024-08-22,2024-08-26,4,Respiratory,Surgery,5,58,4835.02,Self Pay,Paid,No,4,Yes
+P10344,48,Male,General Medicine,Emergency,2024-08-21,2024-08-24,3,General,Therapy,20,30,741.75,Self Pay,Paid,No,3,Yes
+P10598,41,Male,Neurology,Scheduled,2023-03-06,2023-03-10,4,Neurological,Observation,9,5,221.49,Private,Paid,No,4,No
+P11003,8,Female,Cardiology,Scheduled,2023-05-01,2023-05-07,6,General,Medication,15,2,406.05,Private,Paid,No,2,No
+P10468,38,Male,Cardiology,Scheduled,2023-07-06,2023-07-11,5,Heart Disease,Observation,0,28,261.35,Self Pay,Paid,No,4,No
+P10836,53,Male,Pediatrics,Emergency,2024-01-13,2024-01-14,1,Respiratory,Observation,28,5,181.93,Government,Pending,No,5,Yes
+P10224,81,Male,Cardiology,Emergency,2024-12-25,2024-12-27,2,Heart Disease,Observation,2,87,195.94,Government,Paid,No,5,Yes
+P11022,79,Female,General Medicine,Walk-in,2024-10-14,2024-10-17,3,Diabetes,Surgery,11,9,2685.18,Self Pay,Paid,No,3,No
+P11043,43,Female,General Medicine,Scheduled,2024-08-03,2024-08-06,3,Diabetes,Medication,9,80,472.13,Government,Unpaid,Yes,4,No
+P10797,30,Female,General Medicine,Emergency,2023-07-19,2023-07-23,4,Diabetes,Surgery,6,8,3130.41,Private,Paid,No,3,Yes
+P10019,79,Male,Orthopedics,Walk-in,2024-07-06,2024-07-10,4,General,Surgery,15,1,1829.07,Government,Pending,No,2,No
+P11195,34,Female,Emergency,Walk-in,2023-04-14,2023-04-15,1,Fracture,Therapy,7,28,518.97,Self Pay,Pending,No,1,No
+P11096,48,Female,Neurology,Scheduled,2023-10-10,2023-10-14,4,Neurological,Surgery,18,14,3074.83,Self Pay,Paid,No,4,No
+P10409,47,Female,Emergency,Scheduled,2024-10-18,2024-10-22,4,Respiratory,Surgery,0,28,4029.79,Self Pay,Pending,No,4,No
+P10513,71,Male,Orthopedics,Emergency,2024-08-17,2024-08-20,3,General,Surgery,17,48,7225.09,Government,Unpaid,No,2,Yes
+P10560,66,Male,Cardiology,Scheduled,2023-05-31,2023-06-02,2,General,Observation,6,41,335.8,Self Pay,Paid,No,4,No
+P10473,95,Male,Emergency,Scheduled,2023-04-07,2023-04-09,2,General,Therapy,6,23,534.32,Government,Paid,No,5,No
+P10526,38,Male,Pediatrics,Scheduled,2024-09-18,2024-09-22,4,General,Medication,4,52,540.95,Private,Unpaid,No,4,No
+P11007,45,Female,General Medicine,Emergency,2023-04-16,2023-04-18,2,Diabetes,Observation,9,21,390.34,Government,Pending,No,4,Yes
+P10320,53,Male,General Medicine,Emergency,2024-08-14,2024-08-16,2,Respiratory,Medication,10,15,374.51,Private,Paid,No,5,Yes
+P10838,0,Female,Neurology,Walk-in,2023-06-29,2023-07-04,5,General,Medication,11,3,211.61,Government,Paid,No,4,No
+P10263,67,Male,Cardiology,Emergency,2024-03-25,2024-03-27,2,Heart Disease,Therapy,2,27,283.99,Self Pay,Paid,No,4,Yes
+P10978,21,Male,Emergency,Scheduled,2024-05-02,2024-05-06,4,General,Medication,8,72,404.26,Self Pay,Paid,No,4,No
+P10387,84,Female,Orthopedics,Emergency,2023-10-21,2023-10-25,4,Fracture,Therapy,6,54,591.54,Private,Pending,Yes,5,Yes
+P10100,54,Female,Neurology,Emergency,2024-06-27,2024-06-30,3,General,Observation,14,58,134.17,Government,Pending,No,2,Yes
+P10225,45,Female,General Medicine,Emergency,2024-11-06,2024-11-12,6,Diabetes,Observation,5,49,154.69,Private,Paid,No,4,Yes
+P10807,53,Female,Pediatrics,Scheduled,2024-09-28,2024-10-01,3,General,Observation,8,1,98.95,Government,Paid,No,3,No
+P10959,25,Male,Cardiology,Walk-in,2023-06-09,2023-06-13,4,Heart Disease,Surgery,20,5,4872.11,Self Pay,Paid,No,4,No
+P10114,47,Male,Emergency,Scheduled,2023-04-28,2023-04-29,1,General,Surgery,3,77,5474.41,Government,Paid,No,4,No
+P10667,33,Female,Emergency,Scheduled,2024-07-21,2024-07-26,5,Heart Disease,Medication,21,20,354.94,Government,Paid,No,4,No
+P10639,70,Male,Emergency,Emergency,2024-04-19,2024-04-20,1,Fracture,Surgery,11,11,5532.54,Government,Paid,No,4,Yes
+P11142,56,Male,Pediatrics,Emergency,2024-08-03,2024-08-07,4,General,Therapy,8,5,419.99,Government,Paid,No,3,Yes
+P10103,64,Male,Neurology,Walk-in,2024-09-16,2024-09-20,4,Neurological,Observation,9,48,174.55,Self Pay,Paid,No,2,No
+P10972,48,Male,Neurology,Emergency,2023-04-02,2023-04-08,6,General,Therapy,9,23,681.33,Government,Unpaid,No,4,Yes
+P10618,47,Male,Neurology,Scheduled,2024-04-21,2024-04-24,3,General,Surgery,19,7,2994.13,Self Pay,Paid,Yes,5,No
+P10370,22,Female,Emergency,Scheduled,2023-05-14,2023-05-16,2,Fracture,Observation,13,23,246.78,Government,Paid,No,3,No
+P10765,28,Male,Pediatrics,Emergency,2023-11-30,2023-12-03,3,Respiratory,Therapy,11,12,468.47,Government,Paid,Yes,5,Yes
+P10377,50,Female,Emergency,Walk-in,2024-11-03,2024-11-10,7,General,Medication,6,13,251.69,Private,Pending,No,3,No
+P11169,52,Female,Orthopedics,Emergency,2023-05-16,2023-05-22,6,General,Therapy,0,7,152.68,Private,Paid,No,4,Yes
+P10938,52,Female,General Medicine,Emergency,2023-06-09,2023-06-09,0,General,Observation,0,33,135.48,Government,Paid,No,4,Yes
+P10572,29,Male,Pediatrics,Walk-in,2023-09-24,2023-09-28,4,General,Surgery,0,40,4039.84,Self Pay,Paid,No,5,No
+P10489,53,Female,Orthopedics,Walk-in,2024-07-17,2024-07-20,3,General,Surgery,12,26,5598.05,Self Pay,Unpaid,No,4,No
+P10905,29,Male,Cardiology,Emergency,2024-10-11,2024-10-15,4,Heart Disease,Medication,7,18,257.65,Private,Paid,Yes,3,Yes
+P10597,37,Female,General Medicine,Scheduled,2023-12-12,2023-12-16,4,Diabetes,Surgery,5,45,1840.08,Government,Pending,No,5,No
+P10537,40,Female,Orthopedics,Scheduled,2024-09-22,2024-09-28,6,Fracture,Therapy,19,134,556.36,Government,Paid,No,1,No
+P10172,29,Female,Cardiology,Walk-in,2024-05-24,2024-05-27,3,General,Observation,13,7,228.97,Private,Pending,No,3,No
+P10378,43,Female,Neurology,Walk-in,2024-07-14,2024-07-16,2,Neurological,Medication,8,24,351.61,Private,Paid,No,5,No
+P10707,50,Female,Emergency,Emergency,2024-04-23,2024-04-27,4,General,Medication,5,3,439.87,Government,Paid,No,4,Yes
+P10058,72,Male,Orthopedics,Walk-in,2023-11-15,2023-11-21,6,Fracture,Therapy,10,43,508.22,Self Pay,Paid,No,4,No
+P10051,44,Female,Pediatrics,Emergency,2024-01-25,2024-01-28,3,General,Therapy,8,1,722.45,Government,Pending,No,4,Yes
+P10153,38,Male,Emergency,Emergency,2024-05-05,2024-05-09,4,Fracture,Observation,7,1,259.3,Private,Paid,Yes,3,Yes
+P10272,37,Male,Emergency,Scheduled,2023-06-19,2023-06-24,5,Respiratory,Surgery,11,14,5464.26,Government,Paid,No,1,No
+P10132,34,Male,Cardiology,Scheduled,2023-12-27,2023-12-28,1,General,Observation,19,34,195.4,Private,Paid,No,2,No
+P10402,58,Male,Emergency,Scheduled,2023-11-05,2023-11-09,4,General,Observation,2,9,220.36,Government,Pending,Yes,3,No
+P10017,51,Male,Pediatrics,Emergency,2024-04-07,2024-04-11,4,Respiratory,Medication,9,8,420.0,Government,Paid,No,4,Yes
+P10300,15,Female,Cardiology,Emergency,2023-08-09,2023-08-10,1,Heart Disease,Surgery,15,109,2107.98,Government,Paid,Yes,3,Yes
+P10260,53,Male,General Medicine,Walk-in,2023-06-21,2023-06-26,5,Diabetes,Surgery,8,48,6006.79,Government,Paid,No,3,No
+P10390,50,Female,General Medicine,Walk-in,2023-08-19,2023-08-25,6,General,Surgery,4,48,5394.41,Self Pay,Unpaid,No,3,No
+P10991,29,Male,General Medicine,Walk-in,2024-05-30,2024-06-07,8,Respiratory,Observation,14,14,228.63,Private,Paid,No,4,No
+P10626,0,Female,Neurology,Emergency,2023-10-19,2023-10-20,1,Neurological,Therapy,5,17,539.07,Private,Unpaid,No,4,Yes
+P10159,48,Female,Cardiology,Scheduled,2023-03-18,2023-03-19,1,Heart Disease,Medication,12,33,367.07,Private,Pending,No,4,No
+P10803,36,Male,Cardiology,Emergency,2024-04-26,2024-05-02,6,General,Therapy,10,20,439.79,Government,Paid,No,5,Yes
+P10021,38,Female,Orthopedics,Emergency,2024-07-03,2024-07-09,6,General,Surgery,8,68,4363.84,Government,Paid,No,2,Yes
+P10183,46,Male,Emergency,Walk-in,2024-12-05,2024-12-11,6,General,Therapy,9,14,599.48,Self Pay,Pending,No,4,No
+P10954,48,Male,Orthopedics,Scheduled,2023-04-23,2023-04-27,4,General,Surgery,14,26,5347.5,Government,Paid,No,4,No
+P10963,71,Male,Cardiology,Scheduled,2023-04-17,2023-04-21,4,General,Medication,17,93,398.29,Private,Paid,No,2,No
+P10582,52,Male,Cardiology,Walk-in,2024-08-31,2024-09-02,2,Heart Disease,Medication,12,25,390.34,Private,Pending,Yes,4,No
+P10295,38,Female,Orthopedics,Emergency,2024-12-29,2025-01-02,4,Fracture,Surgery,13,13,1558.61,Self Pay,Paid,No,4,Yes
+P10361,66,Female,Cardiology,Walk-in,2023-11-05,2023-11-11,6,Heart Disease,Therapy,16,5,50.0,Self Pay,Paid,Yes,5,No
+P11159,87,Male,Orthopedics,Scheduled,2023-01-11,2023-01-14,3,General,Surgery,15,19,5057.34,Private,Paid,No,5,No
+P11081,45,Male,Cardiology,Emergency,2024-08-25,2024-08-28,3,General,Medication,0,1,188.78,Private,Pending,No,2,Yes
+P10619,41,Male,Neurology,Walk-in,2023-09-02,2023-09-08,6,General,Surgery,7,9,6146.11,Self Pay,Pending,No,5,No
+P10632,71,Male,Neurology,Walk-in,2023-02-26,2023-03-03,5,Neurological,Therapy,9,52,432.63,Private,Paid,No,4,No
+P11112,62,Male,Emergency,Walk-in,2023-05-18,2023-05-22,4,Fracture,Surgery,8,3,4764.86,Private,Paid,No,4,No
+P10475,34,Female,Emergency,Emergency,2024-03-20,2024-03-27,7,Heart Disease,Therapy,22,6,587.99,Self Pay,Paid,No,1,Yes
+P10384,17,Male,Pediatrics,Emergency,2024-10-09,2024-10-14,5,Respiratory,Therapy,16,37,596.13,Self Pay,Paid,No,5,Yes
+P10731,51,Male,Neurology,Walk-in,2024-03-24,2024-04-01,8,Neurological,Therapy,18,24,196.64,Self Pay,Pending,No,4,No
+P11123,67,Female,Orthopedics,Emergency,2024-05-23,2024-05-28,5,Fracture,Medication,8,13,311.34,Self Pay,Pending,No,1,Yes
+P10306,54,Male,Neurology,Scheduled,2024-01-28,2024-02-01,4,Neurological,Surgery,4,4,6925.35,Self Pay,Unpaid,No,1,No
+P10024,58,Female,Pediatrics,Emergency,2024-11-08,2024-11-12,4,Respiratory,Therapy,15,32,572.24,Private,Unpaid,No,4,Yes
+P10601,58,Male,Orthopedics,Walk-in,2024-09-17,2024-09-23,6,Fracture,Observation,11,98,50.0,Self Pay,Unpaid,No,5,No
+P10189,32,Female,Cardiology,Scheduled,2024-08-10,2024-08-12,2,General,Surgery,8,35,4021.96,Government,Paid,No,2,No
+P11021,39,Male,Neurology,Emergency,2024-12-16,2024-12-22,6,General,Medication,9,24,403.32,Private,Paid,Yes,4,Yes
+P10357,22,Female,Pediatrics,Scheduled,2024-06-20,2024-06-27,7,Respiratory,Therapy,12,33,597.21,Government,Paid,No,5,No
+P11145,51,Male,Pediatrics,Emergency,2023-05-05,2023-05-09,4,General,Medication,1,43,159.88,Private,Pending,No,4,Yes
+P11053,18,Male,Cardiology,Scheduled,2023-03-28,2023-03-29,1,Heart Disease,Therapy,14,10,374.79,Self Pay,Paid,No,4,No
+P10008,66,Male,Emergency,Walk-in,2024-12-05,2024-12-08,3,Respiratory,Medication,13,39,393.21,Private,Pending,No,4,No
+P10570,48,Female,Pediatrics,Walk-in,2024-08-16,2024-08-21,5,Respiratory,Therapy,8,22,937.79,Self Pay,Pending,No,4,No
+P10617,33,Male,Orthopedics,Walk-in,2024-12-02,2024-12-05,3,General,Medication,3,29,189.22,Self Pay,Unpaid,No,5,No
+P11138,31,Female,General Medicine,Emergency,2023-10-26,2023-10-31,5,Diabetes,Observation,17,11,84.13,Self Pay,Paid,No,5,Yes
+P10216,43,Male,Neurology,Scheduled,2024-10-24,2024-10-27,3,General,Medication,19,43,252.0,Self Pay,Pending,No,3,No
+P10110,47,Male,Neurology,Scheduled,2023-01-17,2023-01-22,5,Neurological,Surgery,11,20,3531.21,Self Pay,Paid,Yes,2,No
+P10220,46,Female,Emergency,Emergency,2024-04-25,2024-04-28,3,Respiratory,Therapy,0,39,407.42,Government,Paid,No,5,Yes
+P11146,56,Male,Pediatrics,Walk-in,2024-05-13,2024-05-14,1,General,Observation,8,70,295.21,Private,Paid,No,3,No
+P10992,58,Female,General Medicine,Scheduled,2023-05-08,2023-05-11,3,Respiratory,Observation,5,40,161.15,Private,Unpaid,No,4,No
+P10204,59,Male,Pediatrics,Scheduled,2024-04-01,2024-04-07,6,Respiratory,Observation,9,38,193.99,Government,Paid,No,4,No
+P10879,46,Male,Emergency,Walk-in,2023-08-04,2023-08-06,2,Fracture,Surgery,14,22,4988.72,Government,Pending,No,5,No
+P10853,57,Male,Emergency,Walk-in,2024-12-24,2024-12-28,4,Heart Disease,Therapy,3,23,528.54,Self Pay,Paid,No,3,No
+P10028,60,Male,Neurology,Scheduled,2023-03-16,2023-03-20,4,Neurological,Medication,14,35,309.71,Self Pay,Paid,No,5,No
+P10231,34,Male,Neurology,Walk-in,2023-01-17,2023-01-20,3,Neurological,Observation,6,67,133.14,Private,Paid,No,4,No
+P10955,46,Male,General Medicine,Emergency,2023-09-06,2023-09-14,8,Diabetes,Surgery,0,14,4511.55,Private,Unpaid,No,4,Yes
+P10053,45,Female,Emergency,Emergency,2023-06-19,2023-06-21,2,Fracture,Observation,12,29,169.76,Self Pay,Paid,Yes,4,Yes
+P10645,62,Male,Emergency,Walk-in,2024-01-07,2024-01-09,2,Respiratory,Surgery,9,7,4588.98,Private,Paid,No,5,No
+P11069,60,Male,Orthopedics,Walk-in,2023-03-30,2023-04-05,6,Fracture,Surgery,4,14,2744.67,Private,Pending,No,4,No
+P10075,31,Female,Emergency,Walk-in,2023-08-28,2023-09-02,5,Heart Disease,Observation,7,6,142.0,Private,Paid,No,5,No
+P10962,54,Female,Cardiology,Scheduled,2024-12-10,2024-12-15,5,General,Observation,5,17,135.32,Government,Paid,No,4,No
+P10047,46,Female,Orthopedics,Scheduled,2024-04-20,2024-04-23,3,General,Observation,5,17,178.36,Private,Pending,No,3,No
+P10197,49,Female,Emergency,Walk-in,2023-12-12,2023-12-15,3,Heart Disease,Surgery,7,2,2114.02,Self Pay,Pending,No,5,No
+P11128,28,Female,General Medicine,Walk-in,2024-09-07,2024-09-11,4,Diabetes,Medication,14,48,333.55,Government,Paid,No,5,No
+P10523,69,Male,Emergency,Emergency,2024-05-27,2024-05-27,0,Heart Disease,Observation,14,50,190.05,Government,Paid,Yes,4,Yes
+P10704,72,Male,Orthopedics,Scheduled,2023-09-24,2023-09-29,5,Fracture,Surgery,7,2,4699.95,Government,Pending,No,5,No
+P10127,37,Female,General Medicine,Emergency,2024-12-07,2024-12-17,10,Respiratory,Medication,4,40,338.71,Private,Paid,No,2,Yes
+P10660,41,Female,Neurology,Emergency,2023-07-25,2023-07-27,2,Neurological,Observation,14,20,209.57,Self Pay,Paid,No,5,Yes
+P10759,52,Female,Orthopedics,Walk-in,2024-02-09,2024-02-11,2,Fracture,Observation,15,8,290.35,Self Pay,Paid,Yes,3,Yes
+P10065,52,Female,Emergency,Scheduled,2024-12-29,2024-12-31,2,Fracture,Medication,4,6,378.47,Government,Paid,No,3,No
+P10358,26,Male,General Medicine,Emergency,2023-01-20,2023-01-22,2,General,Surgery,15,21,5285.84,Private,Pending,No,3,Yes
+P10924,50,Male,Emergency,Scheduled,2023-11-26,2023-11-29,3,General,Therapy,7,45,588.25,Self Pay,Paid,No,5,No
+P10939,19,Male,General Medicine,Emergency,2023-07-09,2023-07-16,7,General,Observation,20,58,288.8,Self Pay,Paid,No,3,Yes
+P10397,51,Female,Neurology,Scheduled,2024-06-10,2024-06-14,4,Neurological,Therapy,3,9,351.84,Self Pay,Paid,No,5,No
+P10577,88,Female,General Medicine,Scheduled,2024-02-13,2024-02-15,2,Respiratory,Surgery,1,25,2270.61,Government,Paid,No,3,No
+P11033,53,Male,Neurology,Emergency,2024-05-22,2024-05-25,3,Neurological,Therapy,13,14,50.0,Self Pay,Paid,No,5,Yes
+P11080,57,Female,Orthopedics,Emergency,2023-04-29,2023-05-01,2,General,Therapy,14,48,235.4,Private,Paid,No,3,Yes
+P10354,64,Male,General Medicine,Walk-in,2023-04-01,2023-04-03,2,Respiratory,Observation,3,21,142.22,Government,Paid,No,1,No
+P10063,64,Male,General Medicine,Scheduled,2023-12-11,2023-12-17,6,Respiratory,Surgery,11,89,1615.26,Government,Paid,No,3,No
+P10219,0,Female,Neurology,Scheduled,2023-10-17,2023-10-19,2,General,Therapy,15,12,543.24,Government,Paid,No,4,No
+P10770,35,Male,General Medicine,Scheduled,2023-02-12,2023-02-14,2,General,Therapy,7,3,634.89,Self Pay,Unpaid,Yes,5,No
+P10339,34,Female,Emergency,Scheduled,2023-07-23,2023-07-28,5,General,Observation,8,27,304.9,Self Pay,Unpaid,No,3,No
+P10435,20,Female,Orthopedics,Scheduled,2024-10-17,2024-10-19,2,Fracture,Surgery,7,5,2320.2,Self Pay,Unpaid,No,3,No
+P10276,37,Male,Neurology,Scheduled,2023-08-07,2023-08-11,4,General,Surgery,4,48,2068.53,Private,Pending,Yes,2,No
+P10993,44,Female,Emergency,Scheduled,2023-09-28,2023-10-01,3,Heart Disease,Medication,11,2,318.93,Government,Paid,Yes,5,No
+P10943,45,Female,Cardiology,Walk-in,2024-07-09,2024-07-12,3,Heart Disease,Surgery,5,104,3371.25,Private,Paid,No,4,No
+P10830,20,Female,Cardiology,Emergency,2024-11-24,2024-11-27,3,General,Therapy,0,65,410.34,Private,Paid,Yes,4,Yes
+P11175,40,Male,Neurology,Scheduled,2023-11-10,2023-11-16,6,Neurological,Medication,11,185,392.3,Government,Pending,No,4,No
+P11030,26,Female,General Medicine,Emergency,2023-07-18,2023-07-24,6,Respiratory,Surgery,12,7,4974.49,Self Pay,Paid,No,4,Yes
+P10696,47,Female,General Medicine,Emergency,2024-09-06,2024-09-08,2,Diabetes,Therapy,10,10,760.72,Private,Unpaid,Yes,5,Yes
+P10236,44,Male,Orthopedics,Scheduled,2023-03-31,2023-04-03,3,General,Observation,6,12,171.25,Private,Paid,No,2,No
+P10698,27,Female,Emergency,Emergency,2024-05-21,2024-05-27,6,General,Surgery,11,5,4550.15,Self Pay,Paid,No,5,Yes
+P10587,40,Female,General Medicine,Emergency,2023-01-20,2023-01-23,3,General,Medication,14,53,184.64,Private,Paid,No,5,Yes
+P10467,26,Male,General Medicine,Walk-in,2024-10-02,2024-10-06,4,General,Therapy,18,8,504.35,Government,Paid,No,3,No
+P10429,14,Female,Orthopedics,Scheduled,2024-12-05,2024-12-07,2,General,Medication,0,55,241.67,Private,Paid,No,3,No
+P10101,56,Male,Cardiology,Walk-in,2023-05-25,2023-05-29,4,General,Therapy,8,1,207.79,Private,Pending,Yes,4,No
+P10535,42,Female,Neurology,Scheduled,2024-03-13,2024-03-15,2,General,Surgery,14,3,952.11,Self Pay,Paid,No,4,No
+P10333,46,Male,Cardiology,Scheduled,2023-04-19,2023-04-24,5,General,Observation,6,10,127.94,Government,Paid,No,4,Yes
+P10671,59,Female,Emergency,Scheduled,2024-03-08,2024-03-12,4,Fracture,Observation,9,37,239.1,Self Pay,Paid,No,4,No
+P10815,42,Male,Neurology,Walk-in,2023-11-30,2023-12-03,3,Neurological,Surgery,16,9,3850.86,Private,Unpaid,No,4,No
+P10629,36,Female,Cardiology,Emergency,2024-02-19,2024-02-21,2,General,Therapy,6,14,525.52,Private,Paid,No,5,Yes
+P10918,83,Male,Emergency,Walk-in,2023-08-31,2023-09-05,5,Respiratory,Observation,18,13,325.11,Self Pay,Pending,No,3,No
+P10739,39,Male,General Medicine,Emergency,2024-03-01,2024-03-04,3,Respiratory,Therapy,9,2,602.99,Government,Paid,Yes,4,Yes
+P10259,5,Male,Cardiology,Emergency,2024-05-11,2024-05-15,4,General,Observation,14,39,267.86,Government,Paid,No,5,Yes
+P10139,39,Male,General Medicine,Emergency,2023-07-16,2023-07-20,4,Diabetes,Medication,9,2,252.51,Government,Pending,Yes,5,Yes
+P10589,69,Male,Pediatrics,Scheduled,2023-08-20,2023-08-23,3,General,Medication,7,17,278.96,Self Pay,Paid,No,3,No
+P11006,33,Female,General Medicine,Emergency,2024-03-22,2024-03-26,4,Respiratory,Surgery,11,32,4172.86,Private,Paid,No,3,Yes
+P10603,29,Male,Orthopedics,Scheduled,2024-04-20,2024-04-23,3,Fracture,Surgery,10,5,4691.69,Private,Pending,No,5,No
+P10379,20,Male,Neurology,Emergency,2024-09-17,2024-09-18,1,Neurological,Observation,16,68,176.94,Private,Paid,No,5,Yes
+P10595,46,Male,Pediatrics,Walk-in,2023-02-16,2023-02-20,4,Respiratory,Medication,5,16,273.77,Private,Paid,No,5,No
+P11116,49,Female,Orthopedics,Scheduled,2023-06-23,2023-06-25,2,Fracture,Surgery,7,8,4002.51,Self Pay,Paid,Yes,4,No
+P10588,73,Male,General Medicine,Walk-in,2024-08-11,2024-08-16,5,General,Observation,13,1,256.78,Government,Paid,No,5,No
+P10041,50,Male,Neurology,Walk-in,2024-11-10,2024-11-13,3,General,Therapy,6,2,654.87,Self Pay,Paid,No,3,No
+P10985,44,Male,General Medicine,Scheduled,2023-09-27,2023-10-01,4,Diabetes,Observation,3,7,187.9,Self Pay,Unpaid,Yes,3,No
+P10892,26,Female,Pediatrics,Walk-in,2023-06-25,2023-07-01,6,Respiratory,Surgery,17,28,3797.22,Government,Paid,No,5,No
+P10073,44,Male,Cardiology,Emergency,2024-09-16,2024-09-20,4,Heart Disease,Therapy,18,2,915.51,Self Pay,Paid,No,4,Yes
+P10722,59,Female,Emergency,Walk-in,2024-09-10,2024-09-11,1,Fracture,Observation,6,25,201.53,Self Pay,Paid,No,1,No
+P10505,21,Female,Neurology,Walk-in,2024-07-15,2024-07-19,4,Neurological,Medication,11,19,520.06,Government,Paid,No,1,No
+P10549,50,Female,Orthopedics,Walk-in,2024-07-09,2024-07-11,2,General,Therapy,15,49,464.56,Private,Unpaid,No,4,No
+P10085,51,Male,Pediatrics,Emergency,2024-06-04,2024-06-08,4,General,Observation,7,29,267.61,Government,Unpaid,No,5,Yes
+P10033,45,Male,Emergency,Emergency,2024-03-13,2024-03-17,4,Fracture,Surgery,6,23,5908.81,Self Pay,Paid,No,4,Yes
+P10309,36,Female,Emergency,Walk-in,2023-09-04,2023-09-06,2,Fracture,Surgery,13,97,4067.15,Self Pay,Pending,No,4,No
+P10599,50,Male,Cardiology,Walk-in,2023-05-17,2023-05-22,5,General,Surgery,6,9,3863.04,Private,Pending,Yes,1,No
+P10887,71,Male,General Medicine,Emergency,2024-10-18,2024-10-20,2,General,Observation,23,7,332.45,Government,Paid,Yes,4,Yes
+P11103,73,Female,Pediatrics,Walk-in,2024-08-11,2024-08-15,4,Respiratory,Medication,0,88,301.38,Self Pay,Paid,No,4,No
+P10533,40,Male,General Medicine,Scheduled,2024-07-17,2024-07-22,5,Respiratory,Surgery,13,1,3481.18,Private,Paid,No,4,No
+P10192,29,Male,Emergency,Walk-in,2023-05-21,2023-05-24,3,Heart Disease,Observation,9,3,240.55,Self Pay,Unpaid,No,4,No
+P10571,34,Female,Emergency,Scheduled,2023-12-06,2023-12-09,3,Respiratory,Therapy,13,2,836.6,Private,Paid,No,5,No
+P11111,65,Male,Emergency,Walk-in,2023-02-16,2023-02-20,4,Respiratory,Observation,1,1,120.8,Government,Paid,No,4,No
+P10530,39,Male,Pediatrics,Emergency,2023-10-12,2023-10-16,4,Respiratory,Surgery,0,63,5319.56,Private,Paid,Yes,5,Yes
+P10369,80,Female,Cardiology,Walk-in,2024-03-02,2024-03-04,2,General,Surgery,8,32,4912.13,Self Pay,Paid,No,1,No
+P10278,55,Male,Pediatrics,Walk-in,2023-10-19,2023-10-24,5,General,Surgery,13,28,4629.52,Self Pay,Paid,No,4,No
+P10988,61,Female,Pediatrics,Emergency,2024-03-12,2024-03-13,1,Respiratory,Observation,24,98,230.6,Government,Paid,No,3,Yes
+P10982,34,Female,Orthopedics,Scheduled,2023-07-23,2023-07-27,4,General,Observation,11,7,166.07,Self Pay,Paid,No,4,No
+P10437,60,Female,General Medicine,Scheduled,2023-12-28,2024-01-02,5,General,Surgery,13,4,4212.63,Self Pay,Paid,No,5,No
+P10071,75,Male,Cardiology,Emergency,2024-08-13,2024-08-16,3,Heart Disease,Therapy,0,8,367.64,Private,Unpaid,Yes,5,Yes
+P11192,45,Male,Neurology,Scheduled,2024-03-03,2024-03-07,4,General,Therapy,17,22,404.31,Self Pay,Paid,Yes,5,No
+P10540,54,Female,Pediatrics,Scheduled,2023-12-10,2023-12-16,6,Respiratory,Therapy,9,10,442.83,Self Pay,Pending,No,4,No
+P10856,71,Male,General Medicine,Walk-in,2023-04-02,2023-04-07,5,General,Therapy,10,55,229.72,Private,Paid,No,5,No
+P11073,60,Female,Neurology,Walk-in,2023-09-15,2023-09-21,6,General,Medication,7,16,342.09,Private,Unpaid,Yes,4,No
+P10777,37,Female,Cardiology,Emergency,2023-10-15,2023-10-18,3,Heart Disease,Therapy,3,28,267.13,Self Pay,Paid,No,5,Yes
+P10528,51,Male,Orthopedics,Walk-in,2023-07-27,2023-07-30,3,General,Medication,10,29,319.67,Government,Paid,No,5,No
+P11132,88,Male,Pediatrics,Walk-in,2023-03-06,2023-03-09,3,Respiratory,Therapy,9,9,421.62,Self Pay,Paid,No,4,No
+P10133,53,Female,Cardiology,Scheduled,2024-09-21,2024-09-26,5,Heart Disease,Observation,6,35,278.53,Self Pay,Paid,No,4,No
+P10223,53,Male,Orthopedics,Walk-in,2024-07-09,2024-07-12,3,Fracture,Medication,14,2,339.85,Self Pay,Paid,Yes,2,No
+P11188,64,Female,Cardiology,Scheduled,2023-11-07,2023-11-12,5,Heart Disease,Observation,8,2,217.38,Self Pay,Paid,No,3,No
+P10268,89,Female,Cardiology,Walk-in,2023-04-06,2023-04-11,5,General,Medication,2,101,209.17,Self Pay,Paid,No,5,No
+P10971,24,Male,Neurology,Scheduled,2024-07-14,2024-07-16,2,Neurological,Observation,20,15,167.1,Government,Paid,No,2,No
+P10082,41,Male,Orthopedics,Scheduled,2023-10-01,2023-10-06,5,General,Observation,8,50,177.67,Private,Paid,No,5,No
+P11083,14,Female,Neurology,Scheduled,2023-05-13,2023-05-17,4,Neurological,Medication,14,5,483.21,Private,Paid,No,4,No
+P10611,0,Male,General Medicine,Walk-in,2023-10-13,2023-10-15,2,Respiratory,Surgery,4,60,5063.32,Private,Paid,No,5,No
+P10116,35,Male,Neurology,Walk-in,2023-05-14,2023-05-17,3,General,Medication,12,46,97.38,Government,Paid,No,5,No
+P10700,50,Female,Pediatrics,Emergency,2024-12-01,2024-12-04,3,Respiratory,Observation,9,15,82.07,Private,Pending,No,4,Yes
+P10889,59,Male,General Medicine,Scheduled,2024-12-18,2024-12-21,3,General,Observation,12,8,96.23,Private,Paid,No,5,No
+P10209,14,Female,General Medicine,Walk-in,2024-11-20,2024-11-26,6,Respiratory,Surgery,17,47,4253.56,Private,Paid,No,3,No
+P10345,50,Male,Cardiology,Scheduled,2024-05-08,2024-05-11,3,General,Therapy,8,40,377.74,Government,Paid,No,5,No
+P10330,73,Female,General Medicine,Emergency,2023-03-22,2023-03-23,1,General,Surgery,0,36,3500.16,Self Pay,Paid,No,5,Yes
+P11115,76,Female,Emergency,Walk-in,2023-08-04,2023-08-10,6,Respiratory,Therapy,4,83,769.98,Private,Paid,No,3,No
+P10015,41,Male,Pediatrics,Walk-in,2023-03-22,2023-03-24,2,General,Medication,12,21,200.98,Self Pay,Pending,Yes,4,No
+P10458,78,Female,General Medicine,Scheduled,2024-01-07,2024-01-12,5,Diabetes,Surgery,5,35,5010.07,Private,Paid,No,3,No
+P10486,43,Male,Neurology,Walk-in,2024-12-26,2024-12-30,4,General,Medication,12,26,50.0,Self Pay,Paid,No,5,No
+P10820,15,Female,Pediatrics,Walk-in,2024-03-04,2024-03-08,4,Respiratory,Observation,10,4,77.75,Private,Paid,No,4,No
+P10723,13,Female,General Medicine,Walk-in,2024-12-09,2024-12-16,7,General,Observation,8,19,359.4,Government,Paid,No,4,No
+P10730,18,Female,General Medicine,Walk-in,2023-04-30,2023-05-07,7,General,Therapy,7,5,215.49,Government,Paid,Yes,3,No
+P10681,76,Male,Pediatrics,Walk-in,2023-06-30,2023-07-02,2,General,Medication,10,19,342.71,Private,Pending,Yes,4,No
+P11032,46,Female,Pediatrics,Emergency,2023-04-14,2023-04-18,4,General,Observation,14,90,75.88,Government,Paid,No,5,Yes
+P11171,68,Female,Neurology,Walk-in,2023-12-24,2023-12-28,4,Neurological,Medication,16,33,296.13,Self Pay,Paid,No,3,No
+P10958,37,Male,Orthopedics,Walk-in,2024-04-26,2024-04-29,3,General,Observation,8,1,88.31,Government,Pending,No,4,Yes
+P10989,29,Female,General Medicine,Walk-in,2024-01-26,2024-02-01,6,General,Observation,4,21,201.56,Self Pay,Paid,No,5,No
+P11104,29,Male,Pediatrics,Scheduled,2023-10-28,2023-10-31,3,Respiratory,Therapy,15,24,403.3,Private,Paid,No,2,No
+P10007,24,Female,Neurology,Walk-in,2023-08-03,2023-08-10,7,Neurological,Surgery,0,9,3355.11,Self Pay,Pending,No,4,No
+P10979,45,Female,Cardiology,Emergency,2024-09-07,2024-09-10,3,General,Observation,1,56,204.05,Government,Paid,No,1,Yes
+P10818,45,Unknown,General Medicine,Emergency,2023-01-28,2023-02-02,5,Diabetes,Observation,9,21,390.34,Government,Paid,No,4,Yes
+P10368,49,Female,General Medicine,Scheduled,2024-12-07,2024-12-13,6,General,Surgery,6,13,2334.47,Private,Paid,No,5,No
+P11174,26,Male,Cardiology,Walk-in,2023-11-27,2023-11-27,0,General,Medication,8,240,301.11,Private,Paid,No,4,No
+P10575,35,Female,Pediatrics,Emergency,2023-02-03,2023-02-06,3,Respiratory,Surgery,13,6,6205.55,Government,Pending,No,4,Yes
+P10376,23,Female,Pediatrics,Scheduled,2023-07-31,2023-08-05,5,General,Medication,13,7,200.42,Private,Pending,No,5,No
+P10953,53,Male,Emergency,Emergency,2023-08-13,2023-08-17,4,Respiratory,Medication,9,12,214.98,Private,Unpaid,Yes,4,Yes
+P10027,54,Female,Pediatrics,Emergency,2023-11-20,2023-11-26,6,General,Surgery,9,99,3366.55,Government,Paid,No,3,Yes
+P10772,0,Male,Emergency,Walk-in,2023-05-06,2023-05-14,8,Respiratory,Observation,6,15,262.64,Private,Paid,No,3,No
+P11157,60,Female,Pediatrics,Walk-in,2024-03-28,2024-03-30,2,General,Medication,9,240,434.17,Self Pay,Pending,No,3,No
+P10454,40,Female,Neurology,Walk-in,2024-01-05,2024-01-12,7,General,Therapy,7,18,624.66,Private,Paid,No,4,No
+P10680,47,Female,Pediatrics,Walk-in,2024-03-22,2024-03-25,3,Respiratory,Surgery,0,20,6957.29,Private,Paid,Yes,5,No
+P10811,79,Male,General Medicine,Scheduled,2024-02-20,2024-02-24,4,General,Surgery,9,60,6083.75,Government,Paid,No,3,No
+P11162,68,Female,Cardiology,Emergency,2023-02-09,2023-02-13,4,Heart Disease,Surgery,17,62,3974.99,Private,Paid,No,2,Yes
+P11109,64,Male,Cardiology,Walk-in,2024-03-17,2024-03-21,4,Heart Disease,Medication,15,4,241.12,Private,Paid,No,4,No
+P10768,44,Female,Orthopedics,Walk-in,2023-01-20,2023-01-24,4,Fracture,Surgery,12,10,1554.35,Self Pay,Paid,Yes,4,No
+P10264,33,Male,Orthopedics,Walk-in,2023-07-31,2023-08-04,4,General,Therapy,7,21,497.47,Self Pay,Paid,No,5,No
+P10641,62,Female,Cardiology,Walk-in,2024-09-05,2024-09-09,4,General,Observation,12,98,119.75,Government,Paid,No,4,No
+P10233,41,Female,Cardiology,Scheduled,2023-12-15,2023-12-21,6,Heart Disease,Therapy,15,5,505.73,Government,Paid,No,5,No
+P11137,33,Female,Neurology,Walk-in,2023-11-28,2023-12-01,3,Neurological,Therapy,12,2,484.44,Government,Paid,Yes,5,No
+P10980,39,Female,Emergency,Scheduled,2024-03-09,2024-03-13,4,Heart Disease,Medication,3,1,372.18,Private,Paid,No,3,No
+P10029,66,Female,Orthopedics,Emergency,2024-01-14,2024-01-17,3,General,Therapy,10,40,689.53,Self Pay,Unpaid,No,4,Yes
+P10649,33,Male,Emergency,Scheduled,2023-05-26,2023-06-01,6,Heart Disease,Surgery,8,0,3750.91,Private,Unpaid,No,5,No
+P10891,37,Male,Pediatrics,Emergency,2023-07-31,2023-08-06,6,General,Medication,2,6,535.03,Private,Unpaid,No,4,Yes
+P10934,31,Female,Neurology,Emergency,2023-05-17,2023-05-18,1,Neurological,Surgery,0,21,5390.67,Self Pay,Paid,No,4,Yes
+P10702,70,Male,Neurology,Emergency,2024-09-12,2024-09-16,4,General,Observation,15,7,82.17,Government,Unpaid,No,2,Yes
+P10837,68,Male,Emergency,Scheduled,2024-07-03,2024-07-10,7,Fracture,Therapy,10,19,478.21,Self Pay,Paid,No,5,No
+P10457,63,Male,Cardiology,Scheduled,2023-03-23,2023-03-26,3,Heart Disease,Therapy,12,11,657.78,Government,Paid,No,4,No
+P11023,6,Male,General Medicine,Scheduled,2023-08-20,2023-08-22,2,Respiratory,Medication,13,38,155.93,Government,Paid,No,4,No
+P10580,40,Male,Orthopedics,Walk-in,2024-11-19,2024-11-21,2,General,Surgery,11,23,5072.23,Government,Paid,No,5,Yes
+P10822,44,Female,Pediatrics,Walk-in,2023-09-10,2023-09-12,2,General,Observation,0,19,238.42,Government,Paid,No,3,No
+P10542,35,Female,Orthopedics,Emergency,2024-08-07,2024-08-09,2,Fracture,Therapy,8,57,538.56,Self Pay,Pending,No,3,Yes
+P10916,41,Male,Orthopedics,Scheduled,2024-11-13,2024-11-19,6,General,Medication,26,29,191.01,Government,Paid,No,4,No
+P10079,22,Female,Pediatrics,Emergency,2024-03-22,2024-03-25,3,General,Therapy,11,19,385.93,Government,Paid,No,5,Yes
+P10607,48,Male,Orthopedics,Emergency,2024-01-20,2024-01-25,5,General,Observation,21,139,90.04,Private,Pending,Yes,5,Yes
+P10966,31,Female,Neurology,Emergency,2024-02-05,2024-02-08,3,Neurological,Therapy,14,10,531.34,Government,Pending,No,4,Yes
+P10867,42,Female,General Medicine,Scheduled,2023-08-28,2023-09-04,7,General,Medication,8,29,93.62,Government,Paid,No,5,No
+P10016,73,Female,Neurology,Emergency,2024-06-24,2024-06-29,5,Neurological,Therapy,10,1,931.07,Government,Unpaid,No,4,Yes
+P10792,65,Female,Neurology,Emergency,2023-10-26,2023-11-01,6,Neurological,Medication,18,19,173.1,Private,Paid,No,5,Yes
+P10284,45,Unknown,Emergency,Emergency,2024-03-23,2024-03-27,4,Heart Disease,Medication,9,21,390.34,Government,Paid,No,4,Yes
+P11010,71,Male,Cardiology,Scheduled,2023-04-28,2023-05-02,4,General,Surgery,8,14,3059.59,Government,Paid,No,4,No
+P10986,36,Male,General Medicine,Walk-in,2024-12-14,2024-12-18,4,Respiratory,Surgery,12,12,2352.7,Government,Paid,No,4,No
+P10561,50,Female,Pediatrics,Scheduled,2024-11-26,2024-11-29,3,General,Medication,19,6,405.99,Self Pay,Paid,No,4,No
+P11062,19,Male,Orthopedics,Scheduled,2024-01-02,2024-01-07,5,General,Medication,5,12,369.68,Private,Paid,No,5,No
+P10646,33,Male,Orthopedics,Emergency,2023-04-15,2023-04-19,4,Fracture,Surgery,6,34,3357.91,Self Pay,Paid,No,4,Yes
+P10286,36,Male,Pediatrics,Scheduled,2023-09-23,2023-09-25,2,Respiratory,Therapy,5,1,696.18,Self Pay,Pending,No,1,No
+P11089,83,Female,Orthopedics,Walk-in,2024-11-06,2024-11-12,6,Fracture,Therapy,10,26,559.87,Private,Paid,No,1,No
+P10038,24,Female,Neurology,Walk-in,2023-12-26,2023-12-29,3,General,Medication,19,1,438.94,Private,Pending,No,4,No
+P10559,72,Female,Pediatrics,Scheduled,2024-01-24,2024-01-30,6,Respiratory,Medication,14,49,265.07,Private,Pending,No,5,No
+P10677,15,Female,General Medicine,Walk-in,2023-10-02,2023-10-06,4,General,Medication,15,13,369.96,Self Pay,Paid,No,3,No
+P10521,51,Female,General Medicine,Walk-in,2023-02-10,2023-02-17,7,General,Medication,10,34,300.75,Private,Paid,No,3,No
+P10135,40,Female,Orthopedics,Scheduled,2024-01-08,2024-01-13,5,General,Observation,12,7,205.19,Government,Paid,Yes,4,No
+P10106,59,Male,General Medicine,Scheduled,2024-03-31,2024-04-03,3,Diabetes,Therapy,11,27,671.97,Self Pay,Unpaid,No,2,No
+P10668,20,Male,Neurology,Emergency,2023-11-25,2023-11-30,5,Neurological,Surgery,20,26,3452.98,Government,Paid,No,1,Yes
+P10710,34,Female,Neurology,Walk-in,2023-01-27,2023-01-30,3,Neurological,Observation,6,1,129.49,Government,Paid,No,5,No
+P10126,68,Female,Pediatrics,Walk-in,2024-03-15,2024-03-21,6,General,Therapy,13,47,437.12,Private,Paid,No,3,No
+P11152,67,Female,Neurology,Scheduled,2024-10-01,2024-10-05,4,Neurological,Medication,10,119,333.7,Self Pay,Paid,No,3,No
+P10464,48,Female,Neurology,Emergency,2023-06-09,2023-06-14,5,Neurological,Surgery,4,32,3002.89,Government,Paid,No,4,Yes
+P10701,47,Female,Orthopedics,Walk-in,2024-12-31,2025-01-03,3,General,Therapy,6,1,507.81,Private,Paid,Yes,3,No
+P10794,55,Female,General Medicine,Walk-in,2024-09-06,2024-09-08,2,General,Therapy,10,81,258.15,Self Pay,Paid,No,2,No
+P10638,46,Male,Orthopedics,Scheduled,2023-07-24,2023-07-28,4,General,Observation,16,1,220.76,Private,Pending,No,4,No
+P10385,84,Female,Emergency,Walk-in,2023-07-02,2023-07-04,2,Fracture,Therapy,6,33,597.7,Self Pay,Paid,No,4,No
+P10767,48,Female,General Medicine,Emergency,2023-04-28,2023-05-01,3,Respiratory,Observation,4,59,213.89,Self Pay,Paid,No,4,Yes
+P10162,72,Female,General Medicine,Walk-in,2024-06-14,2024-06-18,4,Diabetes,Therapy,3,15,247.99,Government,Pending,No,4,No
+P10566,43,Female,General Medicine,Walk-in,2024-12-13,2024-12-16,3,Diabetes,Observation,13,6,229.97,Self Pay,Paid,No,4,No
+P10800,64,Female,Pediatrics,Walk-in,2024-09-30,2024-10-05,5,Respiratory,Medication,20,32,56.98,Private,Pending,Yes,3,No
+P10502,34,Female,Neurology,Walk-in,2024-09-23,2024-09-28,5,Neurological,Observation,12,1,219.74,Private,Unpaid,No,4,No
+P10200,34,Female,Neurology,Walk-in,2023-06-13,2023-06-17,4,General,Medication,6,103,304.05,Self Pay,Unpaid,No,4,No
+P11008,84,Male,Neurology,Walk-in,2024-09-29,2024-10-01,2,General,Observation,10,29,151.45,Private,Paid,No,4,No
+P10798,62,Male,Orthopedics,Emergency,2023-12-14,2023-12-18,4,Fracture,Medication,8,41,232.31,Private,Pending,No,1,Yes
+P10785,27,Male,Cardiology,Emergency,2023-12-08,2023-12-12,4,General,Medication,6,14,322.6,Self Pay,Paid,Yes,5,Yes
+P10374,24,Female,Orthopedics,Scheduled,2023-03-22,2023-03-25,3,General,Medication,10,6,394.74,Government,Paid,Yes,4,No
+P10442,70,Male,General Medicine,Walk-in,2023-12-28,2023-12-30,2,Respiratory,Surgery,18,68,3333.62,Government,Paid,No,5,No
+P10120,40,Female,Orthopedics,Emergency,2023-05-27,2023-05-31,4,Fracture,Medication,10,28,351.71,Private,Pending,No,4,Yes
+P10490,33,Female,Neurology,Walk-in,2024-01-16,2024-01-24,8,General,Therapy,1,29,588.43,Self Pay,Paid,No,4,No
+P10553,22,Male,General Medicine,Emergency,2024-04-26,2024-04-30,4,Diabetes,Therapy,16,1,255.74,Government,Paid,No,4,Yes
+P10081,48,Female,Pediatrics,Scheduled,2023-01-02,2023-01-08,6,Respiratory,Surgery,10,5,4121.23,Self Pay,Paid,No,4,No
+P11107,3,Male,Neurology,Scheduled,2023-05-01,2023-05-06,5,General,Surgery,5,24,4468.06,Self Pay,Paid,No,3,No
+P10694,27,Male,Neurology,Scheduled,2023-07-23,2023-07-26,3,General,Surgery,9,2,2140.1,Government,Pending,No,5,No
+P11135,24,Female,Neurology,Walk-in,2023-05-07,2023-05-11,4,General,Surgery,19,8,3357.57,Self Pay,Pending,No,2,No
+P11057,46,Female,Cardiology,Scheduled,2023-11-04,2023-11-06,2,Heart Disease,Surgery,11,2,4664.49,Self Pay,Paid,No,4,No
+P10375,55,Female,Cardiology,Emergency,2024-02-18,2024-02-21,3,Heart Disease,Medication,16,47,397.29,Self Pay,Unpaid,No,5,Yes
+P10212,74,Female,Neurology,Walk-in,2023-08-28,2023-08-31,3,General,Surgery,4,7,390.34,Government,Pending,No,4,No
+P11124,95,Male,Cardiology,Walk-in,2024-05-17,2024-05-20,3,Heart Disease,Medication,16,19,322.95,Government,Paid,No,4,No
+P10579,77,Female,General Medicine,Scheduled,2024-09-17,2024-09-24,7,Respiratory,Therapy,9,9,590.47,Private,Paid,No,4,No
+P10519,40,Female,Pediatrics,Scheduled,2024-05-16,2024-05-19,3,Respiratory,Observation,14,41,94.43,Government,Pending,No,5,No
+P10119,6,Male,Pediatrics,Walk-in,2024-11-22,2024-11-25,3,General,Medication,2,34,403.35,Private,Paid,No,5,No
+P10663,30,Female,Orthopedics,Emergency,2024-01-27,2024-01-29,2,General,Medication,5,39,307.12,Private,Paid,No,4,Yes
+P10545,73,Male,Neurology,Emergency,2023-12-02,2023-12-05,3,Neurological,Surgery,10,40,2608.59,Self Pay,Paid,No,5,Yes
+P10944,49,Male,Neurology,Emergency,2024-05-05,2024-05-10,5,Neurological,Therapy,5,36,643.55,Self Pay,Paid,Yes,1,Yes
+P10910,16,Male,Emergency,Scheduled,2023-09-13,2023-09-17,4,Respiratory,Observation,0,42,268.49,Government,Paid,Yes,4,No
+P10908,32,Male,Emergency,Walk-in,2024-06-24,2024-06-29,5,General,Surgery,18,54,3679.68,Self Pay,Unpaid,No,5,No
+P10860,1,Male,Pediatrics,Emergency,2023-04-22,2023-04-25,3,General,Medication,11,37,173.83,Government,Paid,Yes,1,Yes
+P10548,34,Female,Emergency,Emergency,2023-05-01,2023-05-04,3,Heart Disease,Therapy,5,29,705.05,Private,Paid,No,4,Yes
+P10128,37,Male,Neurology,Scheduled,2023-12-14,2023-12-17,3,Neurological,Medication,14,119,143.61,Self Pay,Paid,No,3,No
+P10764,66,Male,Orthopedics,Emergency,2023-10-20,2023-10-22,2,General,Medication,5,44,197.23,Private,Paid,No,3,Yes
+P10793,69,Male,General Medicine,Emergency,2023-12-19,2023-12-22,3,General,Surgery,0,17,4984.4,Private,Paid,No,4,Yes
+P10637,45,Unknown,Pediatrics,Emergency,2024-01-20,2024-01-25,5,General,Therapy,9,21,390.34,Government,Paid,No,4,Yes
+P10400,43,Male,Neurology,Walk-in,2024-07-25,2024-07-31,6,Neurological,Therapy,6,43,156.25,Government,Paid,No,4,Yes
+P10175,56,Female,Neurology,Emergency,2024-01-29,2024-02-03,5,Neurological,Therapy,19,9,307.36,Self Pay,Pending,No,3,Yes
+P10321,47,Male,Cardiology,Scheduled,2023-12-17,2023-12-24,7,Heart Disease,Medication,16,9,247.06,Self Pay,Unpaid,No,3,No
+P11119,34,Female,General Medicine,Emergency,2024-05-20,2024-05-25,5,Diabetes,Therapy,14,45,509.46,Self Pay,Paid,No,5,Yes
+P10470,50,Male,Cardiology,Scheduled,2023-06-04,2023-06-11,7,Heart Disease,Therapy,20,34,334.54,Government,Paid,No,5,No
+P10788,66,Male,Emergency,Scheduled,2024-09-30,2024-10-02,2,General,Observation,0,43,181.18,Government,Pending,No,3,No
+P11151,36,Female,Pediatrics,Walk-in,2023-08-20,2023-08-23,3,Respiratory,Surgery,3,56,3433.29,Government,Paid,No,4,No
+P10080,45,Female,Neurology,Scheduled,2024-02-26,2024-02-28,2,General,Medication,16,8,239.43,Government,Paid,No,2,No
+P11037,68,Male,Neurology,Emergency,2023-08-22,2023-08-27,5,Neurological,Medication,0,47,424.64,Government,Pending,No,4,Yes
+P10291,57,Male,Orthopedics,Scheduled,2024-06-12,2024-06-18,6,Fracture,Observation,17,1,228.55,Government,Pending,No,2,No
+P10371,59,Male,Emergency,Walk-in,2024-06-21,2024-06-24,3,Respiratory,Medication,14,48,179.85,Government,Paid,No,3,No
+P11012,66,Male,General Medicine,Walk-in,2023-10-18,2023-10-20,2,Diabetes,Medication,14,118,244.62,Self Pay,Paid,No,5,No
+P10478,38,Male,Neurology,Emergency,2024-03-25,2024-03-29,4,General,Therapy,10,5,127.47,Self Pay,Paid,No,4,Yes
+P10911,41,Male,Neurology,Scheduled,2024-10-20,2024-10-23,3,General,Medication,17,30,372.52,Government,Paid,No,3,No
+P11044,45,Male,Neurology,Scheduled,2024-09-30,2024-10-08,8,General,Therapy,9,21,390.34,Private,Pending,Yes,4,No
+P10069,39,Male,Neurology,Walk-in,2023-02-16,2023-02-18,2,General,Surgery,0,28,3122.87,Self Pay,Pending,No,5,No
+P10474,26,Female,Cardiology,Walk-in,2023-09-17,2023-09-22,5,General,Surgery,21,8,3972.74,Government,Pending,No,3,No
+P10198,25,Male,Cardiology,Emergency,2024-02-15,2024-02-19,4,Heart Disease,Observation,17,9,250.33,Government,Unpaid,Yes,4,Yes
+P10186,18,Male,Emergency,Walk-in,2023-03-05,2023-03-08,3,Heart Disease,Therapy,13,16,509.45,Self Pay,Paid,No,5,No
+P10679,47,Male,Orthopedics,Emergency,2024-02-20,2024-02-25,5,Fracture,Surgery,2,25,5011.96,Private,Paid,No,4,Yes
+P10422,39,Female,Orthopedics,Scheduled,2024-04-04,2024-04-07,3,Fracture,Surgery,9,10,1409.12,Government,Paid,No,5,No
+P10452,22,Female,Orthopedics,Emergency,2024-03-07,2024-03-12,5,General,Observation,1,33,164.9,Government,Paid,No,1,Yes
+P10257,59,Male,General Medicine,Walk-in,2024-03-04,2024-03-08,4,Respiratory,Observation,11,28,226.71,Private,Paid,No,5,No
+P10136,45,Unknown,Neurology,Scheduled,2023-04-07,2023-04-12,5,General,Surgery,9,21,390.34,Government,Paid,No,4,No
+P10746,50,Female,Orthopedics,Emergency,2024-06-16,2024-06-21,5,Fracture,Therapy,9,2,502.75,Self Pay,Paid,No,1,Yes
+P10819,46,Female,General Medicine,Walk-in,2023-02-28,2023-03-05,5,Diabetes,Surgery,3,3,3210.13,Government,Pending,No,3,No
+P10584,51,Female,Neurology,Scheduled,2024-03-13,2024-03-17,4,Neurological,Medication,2,6,410.67,Government,Pending,No,3,No
+P10922,42,Male,Pediatrics,Emergency,2023-11-10,2023-11-14,4,General,Observation,15,20,252.85,Government,Paid,No,2,Yes
+P11098,30,Female,Neurology,Walk-in,2023-01-17,2023-01-21,4,Neurological,Surgery,7,19,3931.64,Government,Paid,No,2,No
+P11130,68,Female,General Medicine,Walk-in,2023-08-13,2023-08-15,2,Diabetes,Therapy,9,4,461.34,Government,Paid,No,3,No
+P10050,16,Female,Neurology,Scheduled,2024-07-09,2024-07-15,6,Neurological,Surgery,11,16,6065.5,Government,Paid,No,5,Yes
+P10896,76,Female,Emergency,Scheduled,2023-06-17,2023-06-19,2,Fracture,Therapy,9,23,384.54,Self Pay,Paid,No,4,No
+P10527,25,Male,Orthopedics,Scheduled,2023-07-03,2023-07-08,5,General,Therapy,18,63,399.94,Self Pay,Pending,No,4,No
+P10647,25,Male,Pediatrics,Scheduled,2024-12-30,2025-01-04,5,General,Medication,1,24,333.0,Private,Pending,No,4,No
+P10907,61,Male,Cardiology,Walk-in,2024-02-20,2024-02-24,4,Heart Disease,Medication,15,37,237.61,Self Pay,Paid,No,3,No
+P10463,49,Female,Emergency,Walk-in,2024-10-13,2024-10-17,4,Respiratory,Therapy,0,35,519.47,Government,Paid,No,4,No
+P11141,70,Male,Emergency,Walk-in,2023-03-27,2023-03-30,3,Heart Disease,Surgery,14,42,4469.08,Government,Paid,Yes,4,No
+P10654,46,Male,Orthopedics,Walk-in,2024-07-04,2024-07-08,4,Fracture,Surgery,16,82,2917.19,Self Pay,Pending,No,4,No
+P11047,59,Female,Orthopedics,Scheduled,2023-02-02,2023-02-07,5,Fracture,Observation,20,87,347.36,Government,Paid,No,5,No
+P10469,32,Male,Orthopedics,Emergency,2023-02-20,2023-02-23,3,Fracture,Therapy,8,5,494.49,Government,Paid,No,1,Yes
+P10034,61,Male,General Medicine,Scheduled,2023-05-11,2023-05-16,5,Respiratory,Medication,5,1,287.95,Government,Paid,No,2,No
+P10417,12,Male,Neurology,Walk-in,2024-01-21,2024-01-24,3,General,Therapy,7,12,418.02,Government,Paid,No,4,No
+P10248,64,Male,Emergency,Scheduled,2024-08-12,2024-08-17,5,Respiratory,Observation,4,14,202.11,Government,Pending,No,4,No
+P10873,62,Female,Emergency,Emergency,2024-10-19,2024-10-23,4,Heart Disease,Therapy,7,2,440.27,Private,Paid,Yes,3,Yes
+P10787,79,Male,Cardiology,Walk-in,2023-04-15,2023-04-16,1,Heart Disease,Therapy,3,35,253.18,Government,Paid,No,4,No
+P11088,2,Female,Cardiology,Walk-in,2023-03-03,2023-03-05,2,General,Observation,13,3,197.21,Private,Pending,No,1,No
+P10857,47,Female,Cardiology,Emergency,2023-06-22,2023-06-27,5,Heart Disease,Medication,10,5,373.82,Self Pay,Paid,No,3,Yes
+P10217,60,Male,Pediatrics,Emergency,2023-02-10,2023-02-13,3,Respiratory,Observation,17,94,131.65,Private,Pending,No,5,Yes
+P11197,48,Male,Orthopedics,Scheduled,2024-12-11,2024-12-16,5,General,Surgery,3,11,6800.15,Government,Paid,No,3,No
+P11015,89,Male,Neurology,Scheduled,2023-01-19,2023-01-21,2,General,Surgery,0,53,6868.19,Government,Paid,No,4,No
+P10544,49,Female,Orthopedics,Walk-in,2023-04-05,2023-04-08,3,Fracture,Observation,15,5,50.0,Self Pay,Paid,No,4,No
+P10494,37,Female,Orthopedics,Scheduled,2023-08-27,2023-08-30,3,Fracture,Observation,10,25,148.58,Self Pay,Unpaid,No,5,No
+P10465,26,Female,General Medicine,Emergency,2024-05-03,2024-05-06,3,Respiratory,Therapy,17,32,155.25,Self Pay,Paid,Yes,4,Yes
+P10392,42,Male,Neurology,Emergency,2024-04-22,2024-04-24,2,Neurological,Therapy,12,83,553.98,Self Pay,Paid,No,4,Yes
+P10439,75,Male,Orthopedics,Walk-in,2024-02-21,2024-02-25,4,Fracture,Therapy,5,12,682.3,Government,Unpaid,No,5,No
+P10771,64,Female,Pediatrics,Scheduled,2023-09-14,2023-09-18,4,Respiratory,Therapy,4,18,451.91,Private,Paid,No,2,No
+P10327,0,Male,Pediatrics,Walk-in,2023-03-05,2023-03-09,4,Respiratory,Medication,10,81,356.12,Self Pay,Paid,No,5,No
+P10693,37,Female,Orthopedics,Scheduled,2024-08-31,2024-09-04,4,General,Observation,12,62,292.43,Self Pay,Paid,No,4,No
+P10466,59,Female,General Medicine,Scheduled,2024-07-28,2024-07-30,2,Diabetes,Surgery,5,15,4401.99,Self Pay,Pending,No,4,No
+P10554,56,Female,Neurology,Emergency,2024-04-09,2024-04-11,2,Neurological,Observation,7,2,144.75,Private,Paid,No,3,Yes
+P10062,38,Female,Emergency,Scheduled,2024-08-29,2024-08-30,1,Heart Disease,Medication,16,14,115.33,Government,Pending,No,4,No
+P10419,69,Male,Cardiology,Scheduled,2024-11-07,2024-11-12,5,General,Medication,14,42,390.85,Government,Paid,No,4,No
+P10813,38,Female,Orthopedics,Walk-in,2024-03-25,2024-03-30,5,Fracture,Therapy,11,98,444.09,Private,Paid,Yes,5,Yes
+P11186,13,Male,General Medicine,Scheduled,2023-07-03,2023-07-08,5,General,Medication,11,52,284.79,Government,Pending,No,5,No
+P10539,23,Male,Cardiology,Scheduled,2023-06-29,2023-07-03,4,General,Observation,5,7,76.03,Government,Pending,No,4,No
+P10156,5,Female,Orthopedics,Scheduled,2024-05-23,2024-05-24,1,General,Medication,10,60,347.52,Self Pay,Paid,No,5,No
+P10968,17,Male,Emergency,Walk-in,2023-08-26,2023-08-29,3,Heart Disease,Surgery,9,45,3449.04,Self Pay,Paid,No,4,No
+P11001,76,Female,Neurology,Emergency,2023-08-01,2023-08-04,3,General,Medication,9,8,325.99,Government,Paid,No,2,Yes
+P10628,66,Male,Orthopedics,Walk-in,2024-07-29,2024-08-01,3,General,Therapy,10,29,530.83,Private,Paid,No,3,No
+P10367,39,Female,General Medicine,Walk-in,2024-09-28,2024-10-02,4,Diabetes,Therapy,15,23,393.83,Government,Paid,No,5,No
+P10349,67,Male,Orthopedics,Walk-in,2023-09-22,2023-09-26,4,General,Medication,13,18,159.45,Private,Paid,No,3,No
+P10945,34,Male,Pediatrics,Walk-in,2023-10-31,2023-11-02,2,General,Surgery,7,12,4392.06,Private,Unpaid,Yes,4,No
+P11106,21,Male,General Medicine,Walk-in,2023-08-24,2023-08-28,4,Diabetes,Observation,11,49,317.04,Self Pay,Paid,Yes,3,No
+P10167,63,Male,General Medicine,Emergency,2024-08-11,2024-08-15,4,Respiratory,Medication,0,37,236.65,Government,Paid,No,2,Yes
+P10871,37,Male,General Medicine,Walk-in,2023-10-15,2023-10-19,4,Respiratory,Observation,15,240,269.71,Self Pay,Paid,Yes,4,No
+P10927,56,Male,Cardiology,Emergency,2023-02-12,2023-02-16,4,General,Medication,4,14,442.04,Private,Unpaid,No,3,Yes
+P10547,37,Male,Emergency,Walk-in,2023-11-16,2023-11-21,5,Respiratory,Surgery,2,88,4564.86,Government,Paid,No,4,No
+P10205,49,Female,Cardiology,Emergency,2024-02-10,2024-02-16,6,Heart Disease,Medication,25,10,490.19,Private,Paid,No,4,Yes
+P10899,35,Male,Neurology,Emergency,2023-10-07,2023-10-10,3,General,Medication,17,20,276.71,Private,Paid,No,4,Yes
+P10606,12,Female,Emergency,Scheduled,2024-03-31,2024-04-06,6,Heart Disease,Therapy,2,113,441.31,Private,Pending,No,2,No
+P11105,67,Female,Emergency,Emergency,2024-02-24,2024-02-27,3,Respiratory,Medication,7,102,84.45,Government,Paid,No,4,Yes
+P10187,20,Female,Pediatrics,Walk-in,2023-12-17,2023-12-21,4,General,Observation,13,28,132.34,Private,Unpaid,No,3,No
+P11182,67,Male,Cardiology,Scheduled,2024-02-01,2024-02-07,6,Heart Disease,Observation,9,5,209.8,Government,Pending,No,5,No
+P11036,68,Female,Cardiology,Scheduled,2024-08-31,2024-09-04,4,Heart Disease,Observation,2,2,339.22,Private,Paid,Yes,1,No
+P10010,21,Female,Neurology,Walk-in,2024-08-21,2024-08-26,5,General,Therapy,15,24,639.23,Private,Unpaid,Yes,4,No
+P10011,16,Male,Cardiology,Walk-in,2023-06-06,2023-06-11,5,General,Medication,16,21,276.93,Government,Paid,No,4,No
+P10936,60,Male,Cardiology,Walk-in,2023-12-31,2024-01-03,3,General,Surgery,14,6,7497.8,Government,Unpaid,No,5,No
+P10852,23,Female,Emergency,Walk-in,2024-05-15,2024-05-21,6,Fracture,Observation,9,15,206.56,Government,Pending,No,1,No
+P11050,46,Female,Cardiology,Walk-in,2023-05-22,2023-05-25,3,General,Therapy,15,9,924.58,Government,Paid,No,5,No
+P10556,78,Female,Pediatrics,Walk-in,2024-04-17,2024-04-22,5,General,Surgery,8,13,4833.98,Self Pay,Paid,No,4,No
+P10290,63,Male,Orthopedics,Scheduled,2023-11-26,2023-11-27,1,General,Therapy,13,32,357.13,Private,Paid,Yes,4,No
+P10428,58,Female,Pediatrics,Emergency,2024-02-23,2024-02-29,6,Respiratory,Medication,16,11,245.55,Self Pay,Paid,No,4,Yes
+P10562,28,Female,Neurology,Walk-in,2023-03-05,2023-03-11,6,Neurological,Medication,15,22,293.76,Self Pay,Paid,No,2,No
+P10712,33,Male,Emergency,Emergency,2024-08-05,2024-08-09,4,Fracture,Therapy,23,31,709.88,Government,Pending,No,4,Yes
+P11149,39,Male,Pediatrics,Scheduled,2024-04-30,2024-05-05,5,General,Surgery,1,1,4083.88,Private,Paid,No,1,No
+P10734,30,Male,Pediatrics,Scheduled,2023-02-18,2023-02-22,4,General,Therapy,9,9,439.46,Self Pay,Paid,No,5,Yes
+P10897,12,Male,Emergency,Walk-in,2023-10-03,2023-10-07,4,Respiratory,Surgery,4,15,4017.11,Government,Pending,No,5,No
+P10721,41,Female,Neurology,Walk-in,2024-08-24,2024-08-29,5,General,Therapy,8,117,779.71,Government,Unpaid,No,3,No
+P10152,39,Male,Pediatrics,Emergency,2023-12-07,2023-12-09,2,General,Therapy,0,52,544.48,Self Pay,Paid,No,4,Yes
+P10113,53,Male,Orthopedics,Scheduled,2023-03-09,2023-03-15,6,General,Observation,11,5,257.29,Self Pay,Paid,No,4,No
+P10806,75,Male,Neurology,Emergency,2023-09-18,2023-09-20,2,Neurological,Therapy,5,13,566.96,Government,Paid,No,1,Yes
+P10424,28,Male,Cardiology,Walk-in,2023-01-17,2023-01-25,8,General,Surgery,9,25,4130.72,Self Pay,Paid,No,4,Yes
+P10981,75,Male,General Medicine,Walk-in,2024-06-21,2024-06-26,5,Respiratory,Surgery,19,52,1703.67,Private,Paid,No,3,No
+P10976,53,Male,General Medicine,Scheduled,2024-04-18,2024-04-19,1,Respiratory,Observation,14,40,186.32,Self Pay,Paid,No,2,No
+P10462,84,Female,Neurology,Walk-in,2024-05-02,2024-05-04,2,General,Observation,11,12,144.15,Private,Unpaid,No,3,No
+P11004,18,Male,Pediatrics,Emergency,2023-01-24,2023-01-27,3,General,Medication,4,38,115.8,Private,Paid,Yes,2,Yes
+P10001,50,Male,Emergency,Walk-in,2023-04-25,2023-04-30,5,Respiratory,Surgery,16,36,3342.74,Private,Paid,Yes,5,No
+P11125,26,Male,Neurology,Scheduled,2024-05-10,2024-05-12,2,Neurological,Therapy,7,56,631.72,Self Pay,Paid,No,4,No
+P10947,25,Female,Neurology,Emergency,2023-03-20,2023-03-25,5,General,Medication,13,17,288.65,Private,Paid,No,4,Yes
+P10713,49,Male,Pediatrics,Scheduled,2024-01-26,2024-01-30,4,General,Surgery,17,43,2715.98,Private,Unpaid,No,2,No
+P10779,7,Male,Pediatrics,Walk-in,2024-05-20,2024-05-25,5,Respiratory,Surgery,11,14,4427.79,Private,Paid,No,2,No
+P10760,95,Female,Emergency,Walk-in,2024-12-25,2024-12-29,4,Fracture,Medication,1,23,167.41,Private,Unpaid,No,5,No
+P10909,30,Female,Neurology,Emergency,2023-05-17,2023-05-20,3,General,Observation,7,9,184.49,Government,Paid,No,3,Yes
+P10412,51,Male,Pediatrics,Scheduled,2024-04-28,2024-05-01,3,General,Surgery,17,14,3317.98,Self Pay,Pending,No,4,No
+P10323,58,Female,Orthopedics,Walk-in,2024-02-24,2024-02-28,4,General,Therapy,3,40,455.95,Private,Paid,No,4,No
+P10002,55,Male,Pediatrics,Emergency,2024-03-08,2024-03-10,2,Respiratory,Surgery,11,16,1321.41,Private,Paid,Yes,3,Yes
+P10690,38,Female,Emergency,Walk-in,2024-02-27,2024-03-02,4,General,Medication,0,1,259.5,Private,Paid,No,4,No
+P10436,39,Male,Pediatrics,Walk-in,2024-06-12,2024-06-17,5,Respiratory,Medication,11,29,372.74,Government,Paid,Yes,3,No
+P10453,29,Male,Cardiology,Emergency,2024-12-08,2024-12-13,5,Heart Disease,Therapy,17,33,434.08,Government,Pending,Yes,5,Yes
+P10039,48,Female,Cardiology,Scheduled,2023-04-22,2023-04-28,6,General,Observation,6,1,245.3,Self Pay,Unpaid,Yes,4,No
+P10184,56,Male,Pediatrics,Walk-in,2024-05-06,2024-05-08,2,General,Surgery,2,35,3505.78,Self Pay,Paid,No,5,No
+P10218,27,Male,Cardiology,Walk-in,2023-08-05,2023-08-09,4,Heart Disease,Observation,8,44,309.77,Private,Paid,No,4,No
+P10674,50,Male,Pediatrics,Walk-in,2023-04-05,2023-04-07,2,General,Therapy,18,34,377.59,Private,Paid,No,4,No
+P10307,45,Female,Emergency,Walk-in,2024-01-03,2024-01-08,5,General,Therapy,9,21,390.34,Self Pay,Paid,No,4,No
+P10951,4,Female,Neurology,Scheduled,2024-05-21,2024-05-27,6,General,Therapy,2,40,177.95,Private,Pending,No,3,No
+P10550,34,Female,Neurology,Walk-in,2024-09-19,2024-09-23,4,General,Medication,17,14,339.88,Private,Paid,No,2,No
+P10314,43,Female,Neurology,Emergency,2023-11-06,2023-11-09,3,Neurological,Observation,5,75,90.36,Self Pay,Unpaid,No,3,Yes
+P10861,46,Female,Orthopedics,Walk-in,2024-05-04,2024-05-09,5,Fracture,Medication,3,33,466.99,Private,Paid,No,4,No
+P10332,34,Female,Pediatrics,Emergency,2024-06-19,2024-06-22,3,General,Surgery,3,61,2583.07,Private,Paid,No,5,Yes
+P10037,40,Female,General Medicine,Emergency,2023-12-25,2023-12-26,1,Diabetes,Medication,21,3,50.0,Self Pay,Paid,No,5,Yes
+P11017,43,Male,Neurology,Scheduled,2024-05-20,2024-05-24,4,General,Observation,11,7,235.06,Government,Pending,No,2,No
+P10850,34,Female,Neurology,Scheduled,2024-05-18,2024-05-19,1,General,Therapy,10,15,691.07,Government,Paid,No,4,No
+P10960,81,Female,General Medicine,Walk-in,2024-07-21,2024-07-26,5,General,Therapy,6,87,817.93,Self Pay,Paid,No,3,No
+P10758,85,Female,Pediatrics,Scheduled,2024-10-13,2024-10-19,6,General,Surgery,16,8,3232.93,Self Pay,Paid,No,4,No
+P10578,22,Female,General Medicine,Scheduled,2023-01-13,2023-01-15,2,Respiratory,Therapy,11,101,442.84,Self Pay,Paid,Yes,5,No
+P10997,39,Male,Cardiology,Scheduled,2023-04-06,2023-04-11,5,Heart Disease,Surgery,4,5,2796.54,Private,Paid,No,5,No
+P10434,53,Male,Cardiology,Walk-in,2024-09-15,2024-09-19,4,General,Observation,3,33,74.91,Self Pay,Paid,No,5,No
+P10164,65,Female,Emergency,Walk-in,2023-11-24,2023-11-29,5,Fracture,Therapy,7,12,496.51,Government,Pending,No,5,No
+P10232,53,Female,Emergency,Scheduled,2024-07-07,2024-07-10,3,Heart Disease,Medication,11,21,325.33,Self Pay,Pending,No,2,No
+P10303,55,Female,Orthopedics,Emergency,2024-10-23,2024-10-26,3,Fracture,Therapy,10,2,279.47,Private,Paid,No,3,Yes
+P10176,30,Female,Pediatrics,Scheduled,2024-04-23,2024-04-25,2,General,Medication,5,48,303.51,Private,Unpaid,No,5,No
+P11118,57,Female,Pediatrics,Walk-in,2024-03-12,2024-03-17,5,Respiratory,Observation,13,46,331.88,Government,Unpaid,No,5,No
+P10150,39,Male,Emergency,Walk-in,2024-11-15,2024-11-19,4,Respiratory,Medication,0,26,324.7,Self Pay,Paid,No,4,Yes
+P11173,9,Male,Neurology,Walk-in,2023-02-02,2023-02-08,6,Neurological,Observation,2,77,187.93,Private,Paid,No,4,No
+P10072,16,Male,Pediatrics,Walk-in,2024-09-02,2024-09-03,1,General,Observation,3,11,154.19,Government,Paid,No,4,No
+P10169,72,Female,Emergency,Walk-in,2023-08-19,2023-08-22,3,Respiratory,Medication,9,23,313.15,Government,Paid,No,3,No
+P10456,53,Female,Pediatrics,Walk-in,2023-10-21,2023-10-25,4,Respiratory,Surgery,4,43,390.34,Self Pay,Pending,No,4,No
+P10090,59,Female,Neurology,Walk-in,2023-12-13,2023-12-18,5,Neurological,Therapy,1,40,830.19,Self Pay,Pending,No,3,No
+P10118,73,Female,Cardiology,Emergency,2023-12-25,2024-01-01,7,General,Surgery,4,3,5111.12,Government,Pending,No,5,Yes
+P10322,45,Male,General Medicine,Scheduled,2024-12-22,2024-12-25,3,General,Surgery,9,21,390.34,Self Pay,Pending,No,4,No
+P11072,45,Male,Pediatrics,Emergency,2023-11-02,2023-11-06,4,General,Surgery,10,9,3025.99,Private,Paid,No,3,Yes
+P10460,69,Male,Cardiology,Emergency,2024-02-11,2024-02-16,5,General,Surgery,8,1,3549.61,Private,Paid,No,3,Yes
+P11196,19,Male,Neurology,Scheduled,2024-10-30,2024-11-02,3,Neurological,Surgery,4,47,5589.87,Self Pay,Paid,No,4,No
+P10801,41,Female,Emergency,Walk-in,2024-01-19,2024-01-23,4,General,Surgery,13,39,5476.69,Private,Pending,No,5,No
+P10880,49,Female,Orthopedics,Scheduled,2023-01-23,2023-01-26,3,General,Observation,3,39,224.49,Government,Pending,No,4,No
+P10242,53,Female,Emergency,Walk-in,2024-10-10,2024-10-16,6,Heart Disease,Therapy,15,9,407.82,Government,Paid,No,4,No
+P10271,37,Female,Orthopedics,Emergency,2024-10-27,2024-11-03,7,General,Medication,11,47,365.27,Self Pay,Paid,Yes,4,Yes
+P10112,40,Female,Cardiology,Scheduled,2023-03-04,2023-03-09,5,General,Medication,16,39,312.56,Government,Pending,No,5,No
+P10596,51,Male,Pediatrics,Emergency,2023-06-24,2023-06-27,3,Respiratory,Observation,10,10,233.59,Self Pay,Pending,No,5,Yes
+P10517,52,Female,Pediatrics,Walk-in,2024-09-11,2024-09-17,6,General,Surgery,5,39,2078.0,Government,Paid,Yes,3,Yes
+P10227,51,Female,Neurology,Emergency,2023-10-01,2023-10-07,6,General,Observation,9,44,261.82,Government,Paid,No,3,Yes
+P10497,29,Female,General Medicine,Walk-in,2023-02-25,2023-03-02,5,Diabetes,Therapy,10,1,701.88,Self Pay,Paid,No,4,No
+P10499,57,Female,Pediatrics,Scheduled,2023-02-20,2023-02-26,6,Respiratory,Observation,16,23,257.09,Self Pay,Paid,No,5,No
+P10825,36,Female,Emergency,Scheduled,2023-08-11,2023-08-13,2,Fracture,Therapy,20,8,599.31,Private,Pending,No,5,No
+P11035,37,Female,Orthopedics,Scheduled,2023-01-14,2023-01-20,6,General,Medication,0,12,218.36,Private,Unpaid,No,3,No
+P10196,50,Female,Orthopedics,Scheduled,2024-05-31,2024-06-03,3,Fracture,Medication,2,40,306.58,Government,Paid,No,3,No
+P10337,40,Female,General Medicine,Emergency,2024-05-11,2024-05-14,3,General,Surgery,4,40,3100.14,Private,Paid,No,2,Yes
+P10776,82,Female,Neurology,Scheduled,2024-01-21,2024-01-27,6,Neurological,Medication,13,15,187.32,Private,Paid,No,4,No
+P10720,95,Male,Pediatrics,Walk-in,2023-01-17,2023-01-20,3,General,Surgery,8,10,2095.92,Private,Pending,Yes,4,No
+P10138,44,Male,Emergency,Walk-in,2024-12-20,2024-12-23,3,General,Therapy,9,1,249.61,Private,Paid,No,3,No
+P10814,55,Female,Emergency,Emergency,2023-12-30,2024-01-04,5,General,Observation,6,29,309.77,Self Pay,Pending,No,4,Yes
+P10529,34,Male,General Medicine,Walk-in,2023-09-01,2023-09-05,4,General,Observation,18,4,201.67,Government,Paid,Yes,4,No
+P10508,15,Male,Neurology,Emergency,2024-05-11,2024-05-14,3,Neurological,Observation,0,39,197.74,Self Pay,Unpaid,Yes,3,Yes
+P10809,48,Male,Neurology,Emergency,2023-08-22,2023-08-27,5,Neurological,Therapy,7,25,681.76,Private,Paid,No,4,Yes
+P10394,35,Female,Pediatrics,Walk-in,2023-06-13,2023-06-17,4,General,Medication,7,13,239.08,Government,Paid,No,3,No
+P10383,80,Male,Neurology,Emergency,2024-04-08,2024-04-17,9,General,Therapy,7,14,587.48,Self Pay,Paid,No,5,Yes
+P10222,68,Female,Emergency,Scheduled,2023-12-12,2023-12-14,2,General,Observation,5,57,143.28,Private,Pending,No,2,No
+P10977,78,Female,Cardiology,Emergency,2024-02-11,2024-02-16,5,General,Therapy,6,59,470.8,Private,Paid,No,4,Yes
+P10678,56,Female,Neurology,Scheduled,2024-03-21,2024-03-28,7,Neurological,Surgery,12,6,4766.72,Government,Paid,No,3,No
+P10802,44,Male,Orthopedics,Emergency,2023-12-02,2023-12-07,5,General,Surgery,6,68,5045.77,Self Pay,Unpaid,No,3,Yes
+P10329,23,Male,Emergency,Emergency,2023-02-05,2023-02-13,8,General,Surgery,7,46,3002.51,Private,Unpaid,No,2,Yes
+P10013,30,Male,Emergency,Walk-in,2023-09-27,2023-10-04,7,Fracture,Therapy,8,7,722.9,Self Pay,Paid,No,4,No
+P10890,37,Male,Cardiology,Emergency,2023-08-01,2023-08-07,6,Heart Disease,Medication,2,39,113.88,Self Pay,Paid,No,1,Yes
+P10084,37,Female,Orthopedics,Walk-in,2024-05-25,2024-05-30,5,General,Observation,15,29,206.69,Government,Unpaid,No,4,No
+P10207,68,Female,Emergency,Scheduled,2024-03-06,2024-03-11,5,General,Observation,6,24,98.51,Government,Paid,No,5,No
+P10104,43,Male,Neurology,Emergency,2024-05-19,2024-05-23,4,Neurological,Surgery,11,124,3742.42,Government,Paid,No,5,Yes
+P10310,51,Male,Orthopedics,Walk-in,2023-06-30,2023-07-04,4,General,Therapy,10,6,507.24,Self Pay,Paid,No,5,No
+P10994,28,Female,Pediatrics,Scheduled,2024-09-06,2024-09-10,4,Respiratory,Observation,16,4,447.03,Private,Paid,No,4,No
+P11079,40,Male,General Medicine,Walk-in,2024-11-29,2024-12-06,7,Respiratory,Medication,11,75,262.17,Government,Pending,No,4,No
+P10181,47,Male,Pediatrics,Scheduled,2024-06-11,2024-06-14,3,General,Surgery,9,45,2501.17,Government,Unpaid,No,3,No
+P10858,34,Male,General Medicine,Scheduled,2023-06-24,2023-07-01,7,Diabetes,Surgery,10,240,2074.28,Private,Paid,No,2,No
+P11147,45,Female,Emergency,Walk-in,2023-10-05,2023-10-09,4,Respiratory,Surgery,9,21,390.34,Private,Paid,No,4,No
+P10498,72,Female,Emergency,Walk-in,2024-02-07,2024-02-11,4,Fracture,Surgery,3,3,3278.69,Government,Paid,No,2,No
+P10317,14,Male,Cardiology,Scheduled,2024-05-23,2024-05-25,2,Heart Disease,Surgery,10,1,3430.15,Government,Unpaid,No,5,No
+P10142,4,Female,Orthopedics,Emergency,2023-11-13,2023-11-15,2,General,Observation,3,25,180.32,Government,Pending,No,4,Yes
+P10974,55,Female,General Medicine,Scheduled,2024-01-11,2024-01-13,2,Diabetes,Observation,15,64,146.36,Self Pay,Paid,No,5,Yes
+P10328,62,Female,Pediatrics,Walk-in,2023-03-04,2023-03-11,7,General,Observation,6,12,237.8,Self Pay,Pending,No,2,No
+P10661,72,Female,Pediatrics,Scheduled,2023-10-07,2023-10-12,5,General,Observation,1,2,238.21,Government,Paid,Yes,4,No
+P10347,54,Female,Neurology,Scheduled,2023-09-23,2023-09-27,4,General,Medication,12,80,152.96,Self Pay,Pending,No,3,No
+P10211,67,Male,Cardiology,Scheduled,2023-09-08,2023-09-14,6,General,Surgery,6,36,4123.77,Self Pay,Paid,No,2,No
+P10568,40,Female,Cardiology,Walk-in,2024-08-04,2024-08-12,8,General,Medication,6,10,338.13,Self Pay,Paid,No,2,No
+P10143,50,Male,General Medicine,Walk-in,2023-06-15,2023-06-19,4,Diabetes,Therapy,5,36,510.44,Private,Paid,No,4,No
+P10363,62,Female,Orthopedics,Scheduled,2024-01-02,2024-01-05,3,Fracture,Medication,8,6,50.0,Self Pay,Paid,No,5,No
+P10005,32,Male,Emergency,Scheduled,2024-04-15,2024-04-20,5,Fracture,Therapy,21,3,406.61,Self Pay,Paid,No,4,No
+P10045,51,Male,Orthopedics,Scheduled,2024-05-01,2024-05-05,4,General,Surgery,9,90,6677.24,Self Pay,Paid,No,3,No
+P10282,30,Female,Neurology,Scheduled,2024-10-05,2024-10-08,3,General,Medication,14,11,279.65,Self Pay,Paid,No,3,No
+P10203,40,Male,Orthopedics,Emergency,2024-08-09,2024-08-15,6,General,Observation,19,55,262.2,Private,Paid,No,4,Yes
+P10841,22,Female,Pediatrics,Emergency,2024-03-30,2024-04-03,4,General,Therapy,14,2,617.71,Self Pay,Pending,Yes,5,Yes
+P10359,39,Male,Neurology,Scheduled,2024-12-29,2024-12-31,2,General,Medication,12,13,277.21,Self Pay,Unpaid,No,4,Yes
+P10564,48,Male,General Medicine,Walk-in,2023-05-23,2023-05-30,7,Respiratory,Therapy,6,68,534.4,Government,Paid,No,4,No
+P10372,46,Male,General Medicine,Emergency,2023-06-02,2023-06-07,5,General,Surgery,11,71,4648.46,Self Pay,Pending,No,5,Yes
+P10894,42,Male,Emergency,Emergency,2023-04-12,2023-04-15,3,Fracture,Surgery,1,108,5431.52,Private,Paid,No,5,Yes
+P10884,61,Female,Cardiology,Emergency,2023-12-31,2024-01-02,2,Heart Disease,Medication,10,37,490.74,Self Pay,Paid,No,5,Yes
+P11067,73,Female,Emergency,Scheduled,2023-03-16,2023-03-21,5,Fracture,Surgery,12,6,3846.19,Government,Paid,No,2,No
+P10238,51,Female,Pediatrics,Emergency,2023-06-23,2023-06-27,4,Respiratory,Therapy,11,7,454.69,Government,Paid,Yes,3,Yes
+P10926,37,Male,Pediatrics,Walk-in,2024-01-16,2024-01-21,5,General,Surgery,12,11,3679.29,Self Pay,Paid,No,2,No
+P10684,45,Unknown,General Medicine,Emergency,2023-08-30,2023-09-03,4,Diabetes,Medication,9,21,390.34,Private,Paid,No,4,Yes
+P10274,49,Male,Orthopedics,Emergency,2024-05-04,2024-05-11,7,General,Medication,16,67,278.53,Self Pay,Pending,Yes,4,Yes
+P11011,64,Male,Neurology,Scheduled,2023-05-06,2023-05-10,4,Neurological,Therapy,6,35,665.53,Private,Paid,No,5,No
+P10633,23,Female,Cardiology,Emergency,2024-06-08,2024-06-11,3,General,Therapy,0,79,256.82,Self Pay,Paid,No,5,Yes
+P10195,43,Female,Cardiology,Walk-in,2023-01-10,2023-01-13,3,Heart Disease,Therapy,15,30,629.87,Government,Paid,No,4,No
+P10514,15,Female,Pediatrics,Emergency,2023-06-11,2023-06-19,8,Respiratory,Surgery,12,8,3681.53,Government,Pending,Yes,1,Yes
+P10615,35,Female,Pediatrics,Scheduled,2023-01-25,2023-01-30,5,Respiratory,Observation,11,27,142.3,Private,Pending,No,4,No
+P10432,46,Male,Emergency,Emergency,2023-06-15,2023-06-18,3,General,Therapy,4,28,463.84,Self Pay,Paid,No,2,Yes
+P10675,16,Female,Cardiology,Walk-in,2024-10-29,2024-11-01,3,General,Observation,7,1,111.0,Self Pay,Paid,No,4,No
+P11086,43,Male,Orthopedics,Scheduled,2024-06-17,2024-06-21,4,Fracture,Medication,8,55,361.85,Government,Pending,No,1,No
+P10210,28,Female,Cardiology,Walk-in,2023-02-02,2023-02-05,3,Heart Disease,Surgery,19,24,6808.53,Private,Paid,No,4,No
+P10163,19,Male,General Medicine,Emergency,2023-07-24,2023-07-28,4,Diabetes,Observation,6,2,314.94,Private,Pending,No,2,Yes
+P10636,35,Male,General Medicine,Emergency,2023-05-23,2023-05-28,5,Diabetes,Therapy,15,8,592.63,Government,Unpaid,No,3,Yes
+P10987,32,Male,Neurology,Scheduled,2024-01-08,2024-01-11,3,General,Medication,6,16,168.93,Self Pay,Paid,No,4,No
+P10854,23,Male,Emergency,Emergency,2023-06-15,2023-06-23,8,Fracture,Observation,11,51,137.19,Government,Pending,No,2,Yes
+P10088,26,Male,General Medicine,Scheduled,2024-11-10,2024-11-15,5,Diabetes,Surgery,3,71,3281.92,Self Pay,Unpaid,No,2,No
+P10346,27,Male,Orthopedics,Emergency,2024-06-13,2024-06-15,2,General,Therapy,20,27,447.36,Self Pay,Paid,Yes,4,Yes
+P10952,71,Female,General Medicine,Walk-in,2024-07-05,2024-07-07,2,General,Surgery,0,21,6437.32,Government,Paid,No,4,No
+P10718,64,Female,Orthopedics,Emergency,2024-12-01,2024-12-02,1,General,Therapy,11,23,918.62,Self Pay,Paid,Yes,1,Yes
+P10191,45,Unknown,Pediatrics,Emergency,2023-09-03,2023-09-08,5,Respiratory,Surgery,9,21,390.34,Private,Paid,No,4,Yes
+P10753,36,Male,Orthopedics,Scheduled,2024-06-01,2024-06-05,4,General,Surgery,0,23,3399.61,Self Pay,Paid,No,4,No
+P10179,76,Female,Pediatrics,Walk-in,2024-04-06,2024-04-10,4,Respiratory,Surgery,8,12,5527.83,Private,Paid,No,3,No
+P10769,69,Male,Emergency,Emergency,2024-05-27,2024-05-29,2,Respiratory,Surgery,8,25,2919.56,Private,Paid,No,5,Yes
+P10557,40,Female,Orthopedics,Scheduled,2024-12-11,2024-12-18,7,General,Surgery,0,7,4422.38,Private,Paid,Yes,5,No
+P10877,42,Female,Orthopedics,Emergency,2024-09-07,2024-09-10,3,Fracture,Therapy,14,127,630.44,Government,Paid,No,3,Yes
+P10393,41,Female,Emergency,Walk-in,2023-11-05,2023-11-07,2,Respiratory,Medication,0,9,121.27,Self Pay,Paid,No,3,No
+P10740,58,Male,General Medicine,Emergency,2024-01-05,2024-01-09,4,General,Observation,13,48,229.83,Private,Paid,No,5,Yes
+P11176,26,Male,General Medicine,Scheduled,2024-04-29,2024-05-05,6,General,Therapy,11,19,820.7,Self Pay,Paid,No,3,No
+P10969,73,Male,Neurology,Scheduled,2024-04-03,2024-04-07,4,General,Therapy,11,23,354.66,Self Pay,Pending,No,5,No
+P10745,29,Female,Emergency,Emergency,2023-12-20,2023-12-24,4,Respiratory,Medication,3,6,179.37,Private,Paid,No,5,Yes
+P10998,27,Female,Cardiology,Walk-in,2023-05-14,2023-05-18,4,General,Surgery,5,4,5628.73,Private,Paid,No,3,No
+P11166,46,Male,Orthopedics,Scheduled,2024-10-12,2024-10-14,2,General,Therapy,15,45,526.22,Private,Paid,No,4,No
+P11027,11,Male,Pediatrics,Emergency,2024-10-25,2024-10-29,4,General,Medication,13,13,276.9,Self Pay,Paid,Yes,4,Yes
+P10512,8,Male,Orthopedics,Walk-in,2024-03-03,2024-03-07,4,Fracture,Observation,1,9,206.59,Government,Unpaid,No,4,No
+P10915,36,Male,Emergency,Emergency,2023-07-23,2023-07-27,4,Respiratory,Medication,20,3,284.92,Private,Paid,No,5,Yes
+P10440,56,Female,Pediatrics,Scheduled,2023-09-14,2023-09-20,6,General,Surgery,19,34,5498.85,Government,Unpaid,No,4,No
+P10729,63,Male,Emergency,Walk-in,2024-05-14,2024-05-17,3,Fracture,Medication,7,15,264.8,Government,Paid,No,3,No
+P10472,66,Male,Neurology,Emergency,2024-01-26,2024-02-01,6,Neurological,Observation,22,56,128.97,Government,Paid,No,3,Yes
+P10399,39,Female,Orthopedics,Walk-in,2024-07-04,2024-07-10,6,Fracture,Surgery,15,6,6383.78,Private,Paid,No,2,No
+P10875,46,Female,Pediatrics,Scheduled,2023-07-14,2023-07-15,1,General,Therapy,7,43,713.73,Self Pay,Unpaid,Yes,4,No
+P10036,70,Male,General Medicine,Scheduled,2024-11-16,2024-11-22,6,Diabetes,Medication,5,42,165.61,Government,Pending,No,3,No
+P10206,57,Female,Cardiology,Emergency,2023-03-12,2023-03-12,0,General,Observation,8,48,140.46,Private,Pending,No,5,Yes
+P10609,45,Male,Cardiology,Scheduled,2024-12-09,2024-12-14,5,Heart Disease,Medication,0,9,50.0,Government,Paid,No,3,No
+P11055,23,Female,Orthopedics,Walk-in,2023-11-05,2023-11-10,5,Fracture,Observation,4,4,129.45,Self Pay,Paid,Yes,1,No
+P10829,20,Male,Orthopedics,Walk-in,2023-06-24,2023-06-30,6,Fracture,Surgery,9,114,3936.64,Government,Paid,No,3,No
+P10044,20,Male,Orthopedics,Scheduled,2024-11-05,2024-11-13,8,General,Medication,10,52,397.75,Private,Paid,No,3,Yes
+P10262,36,Male,Emergency,Scheduled,2024-03-27,2024-03-31,4,Fracture,Surgery,17,12,5953.96,Government,Pending,Yes,3,No
+P10872,48,Female,Cardiology,Emergency,2024-12-09,2024-12-15,6,Heart Disease,Therapy,23,19,605.61,Government,Unpaid,No,5,Yes
+P10430,18,Female,Pediatrics,Walk-in,2024-01-10,2024-01-15,5,General,Surgery,11,22,4628.91,Government,Paid,No,3,No
+P10229,45,Female,Orthopedics,Scheduled,2023-03-26,2023-03-31,5,General,Medication,9,21,390.34,Self Pay,Unpaid,No,4,No
+P10725,59,Female,Cardiology,Walk-in,2023-08-03,2023-08-07,4,Heart Disease,Surgery,13,103,4325.48,Government,Pending,No,4,No
+P10006,44,Male,Cardiology,Scheduled,2024-11-08,2024-11-12,4,Heart Disease,Surgery,26,6,5671.1,Private,Paid,No,5,No
+P11191,45,Female,Pediatrics,Scheduled,2024-12-03,2024-12-10,7,General,Therapy,7,21,579.64,Self Pay,Paid,No,4,No
+P10996,34,Male,Cardiology,Walk-in,2024-12-28,2025-01-02,5,Heart Disease,Observation,7,33,199.53,Self Pay,Unpaid,No,3,No
+P10269,86,Female,Neurology,Walk-in,2023-10-18,2023-10-22,4,Neurological,Observation,4,20,220.43,Government,Pending,No,1,No
+P11129,64,Female,Pediatrics,Walk-in,2023-11-27,2023-11-30,3,General,Observation,15,3,267.38,Government,Pending,No,3,No
+P10586,37,Male,Pediatrics,Walk-in,2024-03-17,2024-03-21,4,Respiratory,Observation,9,50,164.65,Self Pay,Paid,Yes,2,No
+P10728,44,Female,General Medicine,Walk-in,2024-03-01,2024-03-06,5,General,Therapy,8,11,629.6,Private,Paid,No,4,No
+P10319,19,Female,Cardiology,Scheduled,2023-02-19,2023-02-25,6,General,Surgery,12,12,3487.28,Government,Paid,No,4,No
+P10630,56,Female,Neurology,Scheduled,2024-10-24,2024-10-28,4,General,Surgery,15,12,2099.48,Self Pay,Pending,No,3,No
+P11122,40,Male,Emergency,Emergency,2024-10-04,2024-10-07,3,Heart Disease,Observation,14,49,136.19,Private,Paid,No,3,Yes
+P10035,35,Male,General Medicine,Emergency,2024-09-27,2024-10-02,5,Diabetes,Surgery,6,23,5323.53,Government,Paid,No,3,Yes
+P10313,54,Male,Cardiology,Emergency,2023-06-01,2023-06-04,3,General,Medication,14,3,254.14,Government,Pending,No,4,Yes
+P10076,34,Male,Cardiology,Scheduled,2023-03-03,2023-03-06,3,General,Observation,11,3,196.48,Private,Paid,No,4,No
+P10174,17,Male,Neurology,Scheduled,2024-02-13,2024-02-17,4,Neurological,Therapy,5,16,786.85,Private,Paid,No,3,No
+P10095,45,Male,Pediatrics,Scheduled,2023-06-11,2023-06-14,3,General,Therapy,10,27,502.44,Self Pay,Unpaid,No,4,No
+P10052,60,Male,Emergency,Scheduled,2024-07-13,2024-07-13,0,Heart Disease,Therapy,10,148,672.11,Government,Paid,No,4,No
+P10552,61,Female,Pediatrics,Walk-in,2023-03-22,2023-03-26,4,Respiratory,Medication,6,3,351.83,Self Pay,Paid,No,4,No
+P10789,75,Female,Cardiology,Walk-in,2024-04-09,2024-04-15,6,Heart Disease,Medication,12,4,343.36,Private,Paid,No,4,No
+P11200,33,Female,Emergency,Walk-in,2024-12-30,2025-01-02,3,General,Therapy,4,0,972.21,Self Pay,Paid,No,1,No
+P10420,48,Male,General Medicine,Emergency,2023-01-23,2023-01-26,3,Diabetes,Surgery,4,15,6446.31,Private,Paid,Yes,4,Yes
+P10748,48,Female,Emergency,Emergency,2024-06-03,2024-06-07,4,Fracture,Medication,5,1,50.0,Government,Paid,No,4,Yes
+P10221,18,Female,Cardiology,Scheduled,2023-09-25,2023-09-29,4,Heart Disease,Surgery,24,107,390.34,Government,Paid,No,3,No
+P10509,57,Female,Pediatrics,Scheduled,2023-11-09,2023-11-10,1,General,Surgery,10,5,2752.29,Private,Paid,No,4,No
+P10711,45,Female,Cardiology,Scheduled,2024-04-16,2024-04-22,6,General,Medication,17,119,269.49,Government,Unpaid,No,5,No
+P10865,38,Male,Cardiology,Walk-in,2024-09-08,2024-09-12,4,General,Surgery,0,11,5539.28,Government,Paid,No,5,No
+P10608,72,Female,General Medicine,Scheduled,2023-07-02,2023-07-06,4,Diabetes,Observation,18,19,175.69,Self Pay,Paid,No,3,No
+P10388,71,Male,Cardiology,Walk-in,2024-09-22,2024-09-29,7,General,Surgery,11,9,2388.58,Self Pay,Pending,No,3,No
+P10094,18,Male,Pediatrics,Scheduled,2023-05-27,2023-06-02,6,General,Observation,3,97,236.17,Government,Paid,No,4,No
+P10752,55,Female,General Medicine,Walk-in,2023-09-28,2023-09-30,2,Respiratory,Observation,11,6,164.51,Self Pay,Unpaid,No,5,No
+P10888,27,Female,General Medicine,Scheduled,2024-05-10,2024-05-12,2,General,Surgery,5,1,2780.98,Private,Paid,No,5,No
+P10652,74,Female,Orthopedics,Emergency,2023-07-09,2023-07-11,2,Fracture,Surgery,15,25,3845.25,Self Pay,Unpaid,No,3,Yes
+P10149,54,Male,Cardiology,Walk-in,2024-05-26,2024-05-30,4,Heart Disease,Surgery,11,5,4453.32,Government,Paid,No,3,No
+P10754,53,Female,Cardiology,Emergency,2023-06-10,2023-06-16,6,General,Medication,11,30,517.16,Private,Paid,No,4,Yes
+P10483,62,Male,Cardiology,Emergency,2024-06-19,2024-06-23,4,Heart Disease,Surgery,10,15,2920.97,Private,Paid,No,2,Yes
+P10403,34,Female,Emergency,Walk-in,2024-02-05,2024-02-07,2,Heart Disease,Therapy,15,78,511.81,Self Pay,Pending,No,5,No
+P10250,44,Female,Orthopedics,Scheduled,2024-06-17,2024-06-19,2,General,Medication,1,28,291.27,Government,Pending,No,2,Yes
+P10341,56,Female,Neurology,Emergency,2023-01-29,2023-02-02,4,Neurological,Surgery,12,6,6330.04,Private,Paid,No,4,Yes
+P10928,35,Male,General Medicine,Emergency,2023-07-26,2023-07-30,4,Diabetes,Surgery,1,1,2124.74,Government,Paid,No,5,Yes
+P10201,27,Male,Orthopedics,Scheduled,2024-05-04,2024-05-11,7,General,Observation,12,12,126.86,Self Pay,Paid,No,4,No
+P10092,42,Male,Cardiology,Scheduled,2024-10-10,2024-10-13,3,Heart Disease,Therapy,3,23,210.4,Private,Paid,No,3,No
+P10733,69,Male,Orthopedics,Emergency,2023-06-27,2023-06-29,2,General,Medication,11,172,108.82,Government,Unpaid,No,3,Yes
+P10541,51,Female,Emergency,Emergency,2023-12-06,2023-12-09,3,Heart Disease,Therapy,4,3,584.88,Private,Paid,No,4,Yes
+P10692,28,Female,General Medicine,Scheduled,2023-07-24,2023-07-29,5,General,Medication,18,12,255.96,Private,Paid,No,5,No
+P10585,37,Female,Neurology,Emergency,2023-07-02,2023-07-07,5,General,Surgery,0,4,3593.95,Self Pay,Paid,No,4,Yes
+P10443,65,Female,Orthopedics,Scheduled,2024-05-02,2024-05-04,2,Fracture,Therapy,19,5,434.61,Private,Unpaid,No,5,No
+P10610,56,Male,Pediatrics,Walk-in,2023-06-10,2023-06-15,5,Respiratory,Medication,11,37,408.72,Government,Pending,No,5,No
+P10281,58,Male,Cardiology,Emergency,2024-08-24,2024-08-26,2,General,Surgery,15,1,3774.09,Private,Unpaid,No,4,Yes
+P10411,13,Male,Emergency,Emergency,2023-03-20,2023-03-23,3,Fracture,Observation,8,1,160.11,Self Pay,Paid,Yes,3,Yes
+P10919,39,Male,General Medicine,Walk-in,2023-09-11,2023-09-14,3,General,Surgery,8,34,4554.03,Private,Paid,Yes,3,No
+P11049,38,Female,Orthopedics,Emergency,2023-11-05,2023-11-09,4,General,Observation,9,11,261.18,Self Pay,Paid,No,5,Yes
+P10569,45,Male,Neurology,Walk-in,2024-04-21,2024-04-25,4,Neurological,Surgery,9,21,390.34,Government,Paid,No,4,No
+P10904,47,Female,General Medicine,Scheduled,2024-05-29,2024-06-01,3,Respiratory,Surgery,6,67,4195.52,Government,Paid,Yes,3,No
+P10695,63,Male,Cardiology,Emergency,2024-07-25,2024-07-31,6,General,Surgery,3,32,3470.31,Government,Pending,No,4,Yes
+P11170,39,Male,Orthopedics,Emergency,2023-10-07,2023-10-10,3,General,Therapy,13,1,474.21,Self Pay,Paid,Yes,4,Yes
+P10688,45,Female,Orthopedics,Emergency,2024-03-29,2024-04-03,5,General,Therapy,17,53,494.09,Government,Paid,No,3,Yes
+P10336,45,Female,Orthopedics,Walk-in,2023-05-18,2023-05-22,4,General,Therapy,9,21,390.34,Government,Pending,No,4,No
+P10643,57,Female,Neurology,Walk-in,2024-01-05,2024-01-07,2,General,Medication,12,10,153.58,Government,Paid,No,2,No
+P10315,45,Unknown,Pediatrics,Emergency,2024-12-11,2024-12-13,2,Respiratory,Observation,9,21,390.34,Government,Pending,No,4,Yes
+P10783,29,Female,Cardiology,Emergency,2023-08-20,2023-08-27,7,Heart Disease,Surgery,0,7,2160.16,Private,Paid,Yes,4,Yes
+P10921,39,Male,Orthopedics,Scheduled,2024-02-15,2024-02-18,3,Fracture,Surgery,1,26,3278.76,Government,Paid,No,5,No
+P11167,68,Male,General Medicine,Emergency,2023-04-01,2023-04-05,4,Diabetes,Medication,15,100,490.08,Private,Paid,No,1,Yes
+P11164,52,Male,Neurology,Walk-in,2024-12-27,2025-01-01,5,General,Medication,2,10,308.81,Self Pay,Paid,No,4,No
+P10507,22,Male,Emergency,Emergency,2024-01-04,2024-01-10,6,Respiratory,Observation,9,9,326.67,Private,Unpaid,No,5,Yes
+P11061,26,Female,Neurology,Emergency,2023-02-04,2023-02-08,4,General,Surgery,10,49,6030.12,Government,Pending,No,1,Yes
+P10134,71,Male,Cardiology,Scheduled,2024-04-06,2024-04-09,3,Heart Disease,Surgery,13,16,3861.15,Private,Paid,No,4,No
+P10093,39,Female,Orthopedics,Walk-in,2023-09-08,2023-09-13,5,Fracture,Surgery,0,4,3990.69,Private,Paid,No,4,No
+P10835,12,Female,General Medicine,Emergency,2024-10-31,2024-11-05,5,Respiratory,Surgery,0,36,3759.64,Government,Paid,No,3,Yes
+P10593,66,Female,Pediatrics,Scheduled,2024-10-20,2024-10-24,4,General,Medication,17,1,316.18,Private,Paid,No,5,No
+P11194,41,Female,Neurology,Walk-in,2023-12-20,2023-12-24,4,Neurological,Observation,1,8,274.05,Private,Paid,No,2,No
+P11052,44,Male,Pediatrics,Scheduled,2023-10-28,2023-11-04,7,Respiratory,Observation,1,11,183.92,Self Pay,Paid,No,5,No
+P10395,56,Female,Orthopedics,Walk-in,2024-09-25,2024-09-27,2,Fracture,Medication,6,4,392.52,Self Pay,Paid,No,4,No
+P11058,59,Male,Cardiology,Walk-in,2024-03-18,2024-03-22,4,Heart Disease,Surgery,27,23,5014.29,Private,Pending,No,3,No
+P11158,56,Female,General Medicine,Walk-in,2024-11-17,2024-11-23,6,Respiratory,Surgery,9,47,3921.81,Self Pay,Paid,No,5,No
+P10576,45,Male,Emergency,Emergency,2024-03-26,2024-03-28,2,Respiratory,Medication,17,9,277.68,Self Pay,Paid,No,2,Yes
+P10574,39,Male,Cardiology,Walk-in,2023-04-25,2023-04-28,3,Heart Disease,Observation,10,28,233.08,Government,Pending,No,5,No
+P10279,41,Female,Orthopedics,Emergency,2024-05-21,2024-05-23,2,Fracture,Observation,5,15,186.63,Self Pay,Paid,No,5,Yes
+P10736,68,Female,Neurology,Emergency,2023-02-17,2023-02-24,7,Neurological,Medication,3,26,308.51,Government,Pending,No,5,Yes
+P11046,32,Male,Neurology,Emergency,2024-05-29,2024-05-31,2,General,Surgery,0,3,1940.42,Self Pay,Paid,No,2,Yes
+P10280,34,Male,Neurology,Scheduled,2023-11-21,2023-11-25,4,General,Therapy,10,10,606.51,Self Pay,Paid,No,5,No
+P10640,10,Female,Cardiology,Scheduled,2024-10-31,2024-11-02,2,Heart Disease,Observation,14,26,297.9,Self Pay,Paid,Yes,5,No
+P10338,79,Male,Pediatrics,Emergency,2024-08-05,2024-08-08,3,Respiratory,Surgery,9,9,1970.5,Private,Paid,No,5,Yes
+P10228,43,Male,Emergency,Emergency,2023-03-24,2023-03-27,3,General,Observation,16,14,235.38,Government,Paid,Yes,1,Yes
+P10699,62,Male,Orthopedics,Scheduled,2024-03-04,2024-03-10,6,Fracture,Medication,15,4,271.02,Government,Unpaid,No,4,No
+P10009,14,Male,Pediatrics,Walk-in,2023-11-19,2023-11-22,3,General,Observation,16,1,122.56,Self Pay,Paid,No,3,No
+P10086,46,Female,Neurology,Emergency,2023-11-02,2023-11-05,3,General,Observation,14,1,140.07,Government,Paid,No,4,Yes
+P11136,24,Male,Emergency,Emergency,2024-03-01,2024-03-07,6,Heart Disease,Medication,27,20,205.29,Self Pay,Paid,No,5,Yes
+P10913,72,Male,Cardiology,Emergency,2024-05-14,2024-05-18,4,General,Surgery,10,13,2204.32,Government,Paid,No,4,Yes
+P11114,20,Female,Pediatrics,Scheduled,2024-06-04,2024-06-09,5,General,Observation,8,47,113.5,Government,Pending,No,1,No
+P10097,21,Female,Emergency,Emergency,2024-02-10,2024-02-15,5,Fracture,Observation,11,6,101.47,Government,Pending,No,5,Yes
+P10342,59,Male,General Medicine,Walk-in,2024-06-09,2024-06-12,3,Diabetes,Observation,0,17,236.0,Private,Paid,No,1,No
+P10122,41,Female,General Medicine,Scheduled,2024-11-08,2024-11-15,7,General,Observation,5,50,233.0,Government,Paid,No,2,No
+P10157,26,Male,Neurology,Emergency,2023-11-25,2023-11-30,5,General,Therapy,13,33,390.84,Government,Paid,No,3,Yes
+P10948,67,Female,Pediatrics,Emergency,2023-07-05,2023-07-13,8,General,Therapy,18,51,466.15,Government,Pending,No,4,Yes
+P10995,49,Female,Cardiology,Emergency,2024-08-14,2024-08-16,2,General,Surgery,4,6,3009.43,Government,Unpaid,No,4,Yes
+P10634,65,Male,Neurology,Walk-in,2024-02-12,2024-02-14,2,General,Therapy,9,19,540.27,Government,Paid,No,4,No
+P10471,26,Male,Cardiology,Emergency,2023-12-05,2023-12-07,2,Heart Disease,Therapy,11,25,692.64,Government,Paid,No,3,Yes
+P10558,48,Female,General Medicine,Scheduled,2023-04-28,2023-05-03,5,General,Medication,14,25,273.44,Government,Paid,No,2,No
+P10724,20,Female,Emergency,Scheduled,2024-11-22,2024-11-25,3,Fracture,Surgery,12,12,5384.12,Private,Paid,Yes,1,No
+P10294,23,Male,Cardiology,Walk-in,2023-12-10,2023-12-13,3,General,Therapy,17,11,641.76,Private,Paid,No,4,No
+P10773,44,Female,Neurology,Walk-in,2024-10-12,2024-10-15,3,General,Therapy,10,3,379.26,Private,Paid,No,3,No
+P10415,46,Female,Orthopedics,Scheduled,2024-06-14,2024-06-17,3,General,Observation,11,81,248.65,Private,Paid,No,2,No
+P11056,22,Male,Cardiology,Emergency,2024-06-16,2024-06-21,5,Heart Disease,Medication,12,1,110.03,Government,Paid,No,4,Yes
+P11154,82,Male,Pediatrics,Emergency,2023-05-31,2023-06-02,2,General,Medication,11,2,211.72,Government,Paid,No,2,Yes
+P10165,72,Male,Neurology,Emergency,2024-06-04,2024-06-08,4,Neurological,Surgery,13,50,3646.24,Private,Pending,Yes,4,Yes
+P10121,32,Female,Neurology,Scheduled,2023-06-11,2023-06-14,3,General,Medication,6,45,247.92,Private,Paid,No,1,No
+P10906,46,Female,General Medicine,Walk-in,2023-01-11,2023-01-13,2,General,Surgery,15,121,3743.06,Government,Paid,No,4,No
+P10697,72,Female,General Medicine,Emergency,2024-04-09,2024-04-11,2,Diabetes,Surgery,6,23,3722.12,Private,Unpaid,No,3,Yes
+P10283,72,Male,Pediatrics,Walk-in,2023-07-28,2023-08-02,5,General,Observation,2,3,200.56,Self Pay,Paid,No,4,No
+P10365,50,Male,Neurology,Scheduled,2024-10-21,2024-10-24,3,General,Therapy,20,54,563.25,Government,Paid,No,5,No
+P10747,40,Female,Pediatrics,Emergency,2024-08-29,2024-09-01,3,General,Observation,12,13,269.42,Self Pay,Paid,Yes,4,Yes
+P10311,81,Female,Pediatrics,Walk-in,2023-07-12,2023-07-20,8,General,Surgery,8,8,5949.46,Government,Paid,Yes,4,Yes
+P10511,28,Male,General Medicine,Emergency,2024-11-03,2024-11-09,6,General,Observation,6,8,236.58,Self Pay,Unpaid,No,4,Yes
+P10180,57,Female,Orthopedics,Walk-in,2023-07-23,2023-07-23,0,Fracture,Medication,17,22,314.88,Private,Paid,No,4,No
+P10912,23,Female,Neurology,Scheduled,2023-07-10,2023-07-16,6,Neurological,Medication,12,15,347.99,Government,Paid,Yes,4,No
+P10810,46,Female,Neurology,Emergency,2023-11-06,2023-11-09,3,Neurological,Therapy,4,87,292.83,Private,Pending,No,3,Yes
+P10821,37,Female,General Medicine,Walk-in,2023-06-12,2023-06-19,7,Diabetes,Observation,5,0,188.64,Government,Paid,No,4,No
+P10070,1,Female,General Medicine,Scheduled,2024-05-05,2024-05-07,2,Diabetes,Medication,15,67,196.27,Government,Unpaid,No,5,No
+P10784,60,Female,Cardiology,Emergency,2024-05-06,2024-05-08,2,General,Therapy,12,19,562.92,Private,Paid,No,3,Yes
+P10524,51,Female,Emergency,Emergency,2023-07-26,2023-07-31,5,Respiratory,Therapy,13,5,435.7,Self Pay,Paid,No,3,Yes
+P11150,51,Male,Orthopedics,Walk-in,2024-12-11,2024-12-15,4,General,Therapy,19,16,636.83,Private,Paid,No,3,No
+P11005,95,Female,Emergency,Scheduled,2023-05-10,2023-05-13,3,General,Surgery,10,75,4135.44,Private,Paid,No,3,No
+P10805,88,Male,Orthopedics,Scheduled,2023-08-13,2023-08-19,6,Fracture,Observation,8,1,283.03,Private,Paid,No,4,No
+P10816,12,Female,Pediatrics,Scheduled,2024-08-10,2024-08-14,4,Respiratory,Observation,11,44,199.15,Private,Paid,No,2,No
+P10124,56,Female,Orthopedics,Scheduled,2023-05-21,2023-05-28,7,General,Medication,8,13,216.18,Private,Paid,No,2,No
+P10864,48,Female,Cardiology,Emergency,2023-12-31,2024-01-03,3,Heart Disease,Observation,1,7,280.03,Self Pay,Paid,No,5,Yes
+P10059,47,Male,Cardiology,Emergency,2024-08-29,2024-09-03,5,General,Medication,13,7,411.35,Self Pay,Pending,No,4,Yes
+P11139,6,Female,Pediatrics,Emergency,2023-09-08,2023-09-13,5,General,Observation,6,19,186.84,Government,Pending,No,4,Yes
+P10364,50,Male,Cardiology,Emergency,2023-01-14,2023-01-15,1,General,Surgery,25,29,2443.25,Private,Pending,Yes,5,Yes
+P10266,37,Female,Orthopedics,Emergency,2023-05-30,2023-06-03,4,General,Observation,11,52,263.27,Private,Paid,No,4,Yes
+P10834,52,Male,Neurology,Walk-in,2023-11-27,2023-12-02,5,Neurological,Observation,12,86,346.88,Government,Paid,No,4,No
+P11074,53,Female,Pediatrics,Scheduled,2024-05-27,2024-05-30,3,Respiratory,Medication,3,38,189.74,Self Pay,Paid,No,3,Yes
+P10249,42,Male,Cardiology,Scheduled,2024-05-09,2024-05-16,7,General,Medication,8,13,235.76,Private,Pending,No,3,No
+P10381,24,Female,Pediatrics,Walk-in,2023-02-19,2023-02-23,4,General,Surgery,8,1,5700.72,Self Pay,Paid,No,2,No
+P10605,45,Male,General Medicine,Walk-in,2023-02-14,2023-02-16,2,Diabetes,Surgery,13,1,3525.07,Private,Pending,No,2,No
+P11070,0,Female,Pediatrics,Emergency,2023-03-15,2023-03-16,1,General,Surgery,3,24,5440.85,Private,Paid,No,4,Yes
+P10551,29,Female,Cardiology,Emergency,2024-03-12,2024-03-14,2,General,Therapy,3,30,781.54,Government,Paid,No,5,Yes
+P10148,85,Male,Pediatrics,Scheduled,2024-03-09,2024-03-15,6,Respiratory,Therapy,14,7,531.37,Private,Paid,No,5,No
+P10252,95,Female,General Medicine,Walk-in,2023-08-26,2023-08-30,4,Diabetes,Surgery,4,12,4376.13,Self Pay,Paid,No,5,No
+P10949,87,Male,Neurology,Emergency,2023-09-29,2023-10-02,3,Neurological,Surgery,7,53,2065.99,Government,Paid,No,5,Yes
+P11131,57,Female,Emergency,Emergency,2023-04-23,2023-04-28,5,Fracture,Medication,8,3,195.01,Government,Paid,No,5,Yes
+P10213,67,Male,Neurology,Walk-in,2023-03-04,2023-03-13,9,General,Observation,8,14,331.92,Private,Unpaid,No,4,No
+P10441,19,Male,Cardiology,Scheduled,2024-05-08,2024-05-11,3,Heart Disease,Observation,13,11,50.0,Self Pay,Pending,No,5,No
+P11048,20,Male,Pediatrics,Walk-in,2023-11-15,2023-11-18,3,General,Therapy,21,47,502.08,Self Pay,Paid,No,3,No
+P10565,52,Male,Cardiology,Emergency,2024-10-25,2024-10-27,2,General,Observation,17,15,281.52,Private,Paid,No,4,Yes
+P10331,81,Female,Cardiology,Walk-in,2023-03-31,2023-04-04,4,General,Therapy,10,59,586.1,Government,Paid,No,1,No
+P10433,59,Male,General Medicine,Emergency,2024-10-13,2024-10-16,3,Diabetes,Observation,0,15,228.23,Self Pay,Paid,Yes,3,Yes
+P10277,34,Female,Neurology,Emergency,2024-03-15,2024-03-19,4,Neurological,Therapy,15,1,626.89,Self Pay,Paid,No,4,Yes
+P11090,83,Male,Neurology,Emergency,2023-09-26,2023-10-01,5,General,Observation,7,3,283.52,Government,Pending,No,5,Yes
+P11082,34,Female,Cardiology,Emergency,2023-05-10,2023-05-16,6,General,Medication,20,24,312.79,Government,Paid,No,3,Yes
+P11078,61,Female,General Medicine,Emergency,2024-05-04,2024-05-07,3,Diabetes,Medication,9,50,481.68,Private,Pending,No,4,Yes
+P11014,40,Male,Neurology,Emergency,2024-03-07,2024-03-15,8,General,Surgery,15,61,5024.91,Self Pay,Paid,No,4,Yes
+P10902,54,Female,Pediatrics,Scheduled,2024-07-18,2024-07-23,5,Respiratory,Therapy,10,26,315.16,Private,Paid,No,4,No
+P10449,0,Female,Orthopedics,Emergency,2024-07-15,2024-07-18,3,General,Observation,7,12,247.12,Self Pay,Paid,No,4,Yes
+P10386,41,Female,Emergency,Scheduled,2024-06-30,2024-07-04,4,Fracture,Medication,2,5,391.1,Private,Paid,Yes,2,No
+P11029,25,Female,General Medicine,Walk-in,2024-05-29,2024-06-02,4,Respiratory,Medication,10,174,103.66,Government,Paid,Yes,4,No
+P10525,68,Male,Emergency,Emergency,2023-05-07,2023-05-09,2,General,Therapy,9,14,559.31,Private,Paid,No,5,Yes
+P10304,32,Female,Pediatrics,Scheduled,2024-03-19,2024-03-21,2,Respiratory,Observation,17,25,239.04,Self Pay,Paid,No,5,No
+P10488,28,Female,Emergency,Walk-in,2024-07-25,2024-07-27,2,Fracture,Therapy,15,14,536.37,Self Pay,Paid,No,5,No
+P11051,78,Female,Pediatrics,Emergency,2023-01-28,2023-02-04,7,Respiratory,Therapy,8,13,844.21,Private,Paid,No,4,Yes
+P11140,48,Female,Pediatrics,Emergency,2023-01-26,2023-02-01,6,General,Therapy,4,28,409.74,Government,Paid,No,3,Yes
+P10941,47,Male,Cardiology,Walk-in,2024-06-23,2024-06-26,3,Heart Disease,Medication,5,22,307.18,Government,Paid,Yes,1,No
+P10068,49,Male,Pediatrics,Emergency,2023-10-17,2023-10-20,3,General,Surgery,15,41,3131.49,Government,Paid,Yes,4,Yes
+P10020,46,Female,General Medicine,Walk-in,2024-02-25,2024-02-29,4,Diabetes,Medication,5,77,266.18,Private,Paid,No,5,No
+P10878,46,Female,Emergency,Walk-in,2024-08-10,2024-08-11,1,Heart Disease,Observation,12,4,217.18,Government,Pending,No,5,No
+P10325,81,Male,Emergency,Scheduled,2023-10-26,2023-11-01,6,Fracture,Therapy,12,5,573.22,Government,Paid,No,3,No
+P10261,76,Male,Pediatrics,Walk-in,2024-05-22,2024-05-29,7,Respiratory,Therapy,14,34,309.08,Self Pay,Pending,No,5,Yes
+P10131,68,Female,Emergency,Walk-in,2024-10-01,2024-10-03,2,Respiratory,Surgery,0,1,4513.94,Government,Paid,No,3,No
+P10410,62,Male,Neurology,Emergency,2024-05-13,2024-05-15,2,Neurological,Therapy,10,17,410.37,Private,Pending,No,5,Yes
+P10401,83,Male,Emergency,Walk-in,2023-05-02,2023-05-04,2,Fracture,Medication,19,20,170.51,Self Pay,Pending,No,4,No
+P10055,65,Female,General Medicine,Scheduled,2023-10-12,2023-10-15,3,Diabetes,Observation,0,2,223.92,Private,Pending,Yes,5,No
+P10964,60,Male,Neurology,Walk-in,2023-07-12,2023-07-14,2,Neurological,Surgery,6,49,3230.29,Government,Paid,No,1,No
+P10932,64,Male,Orthopedics,Walk-in,2023-01-04,2023-01-06,2,Fracture,Medication,7,82,166.71,Self Pay,Paid,No,4,No
+P11143,31,Female,Neurology,Emergency,2024-12-06,2024-12-07,1,General,Surgery,12,72,4421.05,Self Pay,Pending,No,3,Yes
+P10151,19,Female,General Medicine,Scheduled,2023-02-14,2023-02-18,4,Respiratory,Medication,16,44,136.63,Government,Pending,No,5,No
+P11019,52,Male,General Medicine,Emergency,2023-08-20,2023-08-25,5,Diabetes,Therapy,12,80,580.64,Self Pay,Unpaid,No,5,Yes
+P10673,63,Male,Neurology,Scheduled,2024-03-22,2024-03-25,3,Neurological,Surgery,14,33,5206.01,Government,Paid,No,4,No
+P11038,25,Female,Neurology,Walk-in,2024-07-12,2024-07-14,2,General,Therapy,11,7,437.18,Government,Paid,No,3,No
+P11028,42,Female,Neurology,Walk-in,2023-01-30,2023-02-02,3,General,Therapy,2,61,653.85,Government,Paid,No,4,No
+P10107,52,Male,Cardiology,Walk-in,2024-04-10,2024-04-14,4,Heart Disease,Medication,0,1,354.35,Private,Pending,No,2,No
+P10744,95,Male,Pediatrics,Walk-in,2024-09-17,2024-09-20,3,General,Observation,25,1,245.52,Self Pay,Paid,No,5,No
+P11127,28,Female,Cardiology,Scheduled,2023-06-30,2023-07-03,3,Heart Disease,Therapy,5,27,748.57,Self Pay,Paid,Yes,5,No
+P10444,34,Male,Orthopedics,Scheduled,2023-08-29,2023-09-02,4,Fracture,Surgery,10,14,3272.03,Private,Pending,No,4,No
+P10750,38,Male,Pediatrics,Scheduled,2023-09-11,2023-09-16,5,Respiratory,Therapy,16,22,411.46,Government,Paid,No,5,No
+P10756,44,Male,Neurology,Emergency,2023-10-18,2023-10-25,7,General,Medication,7,5,385.66,Private,Paid,Yes,4,Yes
+P10025,27,Male,Emergency,Emergency,2023-11-18,2023-11-21,3,General,Surgery,5,108,5230.14,Private,Unpaid,Yes,3,Yes
+P10812,67,Female,Pediatrics,Walk-in,2024-07-19,2024-07-22,3,General,Therapy,5,81,651.34,Private,Paid,No,5,No
+P10662,1,Male,General Medicine,Walk-in,2024-05-24,2024-06-01,8,Diabetes,Medication,19,16,437.73,Private,Pending,No,4,Yes
+P10839,45,Male,Emergency,Emergency,2023-08-27,2023-08-29,2,Fracture,Medication,9,21,390.34,Government,Paid,No,4,Yes
+P10534,18,Male,Emergency,Emergency,2023-08-03,2023-08-05,2,Fracture,Observation,5,3,236.49,Self Pay,Paid,No,5,Yes
+P11101,27,Male,Pediatrics,Walk-in,2023-01-27,2023-02-02,6,Respiratory,Therapy,4,1,687.76,Self Pay,Pending,No,5,No
+P10083,39,Male,Neurology,Walk-in,2024-07-18,2024-07-23,5,General,Medication,17,14,103.57,Private,Unpaid,No,4,No
+P10256,30,Male,Neurology,Walk-in,2024-09-21,2024-09-24,3,Neurological,Therapy,13,33,470.55,Private,Paid,Yes,4,No
+P10935,40,Male,Neurology,Walk-in,2023-11-29,2023-12-03,4,General,Surgery,11,3,3601.99,Government,Pending,No,5,No
+P10870,69,Male,Orthopedics,Walk-in,2023-08-05,2023-08-08,3,Fracture,Medication,17,20,359.47,Government,Unpaid,Yes,5,No
+P11126,45,Male,General Medicine,Emergency,2023-10-30,2023-11-02,3,Diabetes,Therapy,1,72,444.03,Government,Unpaid,No,4,Yes
+P10893,64,Male,Pediatrics,Walk-in,2024-03-31,2024-04-03,3,General,Therapy,14,10,50.0,Self Pay,Unpaid,No,4,No
+P10874,55,Male,Pediatrics,Walk-in,2023-07-12,2023-07-18,6,General,Surgery,14,13,5792.47,Government,Unpaid,No,1,No
+P10614,42,Male,Neurology,Walk-in,2023-10-30,2023-11-03,4,Neurological,Medication,22,122,141.25,Government,Paid,No,4,No
+P10380,59,Male,Cardiology,Walk-in,2024-02-29,2024-03-07,7,Heart Disease,Observation,16,49,143.21,Government,Paid,No,2,No
+P10077,55,Female,Pediatrics,Emergency,2024-05-20,2024-05-26,6,Respiratory,Observation,11,24,83.14,Self Pay,Paid,No,2,Yes
+P10389,43,Female,General Medicine,Walk-in,2024-02-01,2024-02-06,5,Respiratory,Medication,7,2,397.81,Private,Pending,No,5,No
+P10937,81,Female,Pediatrics,Walk-in,2023-04-19,2023-04-23,4,General,Surgery,12,47,2563.49,Government,Paid,No,4,No
+P10407,26,Male,Neurology,Walk-in,2024-01-01,2024-01-03,2,Neurological,Medication,5,8,292.69,Government,Paid,No,3,No
+P10292,42,Female,Neurology,Walk-in,2023-07-25,2023-07-29,4,General,Surgery,1,1,2016.9,Government,Paid,No,5,No
+P10795,40,Male,Cardiology,Emergency,2024-05-22,2024-05-27,5,Heart Disease,Surgery,9,79,6518.95,Government,Paid,No,5,Yes
+P10716,0,Male,Pediatrics,Scheduled,2024-03-09,2024-03-13,4,General,Surgery,12,49,857.19,Government,Paid,Yes,4,No
+P10111,23,Male,Neurology,Scheduled,2024-06-09,2024-06-14,5,Neurological,Medication,15,26,223.65,Self Pay,Pending,No,4,No
+P10625,50,Male,Neurology,Scheduled,2024-08-03,2024-08-08,5,Neurological,Therapy,17,31,800.72,Private,Paid,No,5,Yes
+P11085,48,Male,Emergency,Emergency,2024-07-08,2024-07-12,4,Respiratory,Observation,12,2,268.43,Self Pay,Unpaid,No,2,Yes
+P11075,28,Female,Neurology,Emergency,2024-03-07,2024-03-09,2,General,Medication,13,3,235.24,Private,Paid,No,3,Yes
+P10247,74,Female,Emergency,Scheduled,2024-10-24,2024-10-29,5,General,Medication,7,27,285.57,Private,Paid,No,5,No
+P10146,87,Male,Neurology,Scheduled,2023-08-18,2023-08-25,7,Neurological,Therapy,6,1,537.03,Private,Paid,No,5,No
+P11134,52,Female,Pediatrics,Scheduled,2023-04-15,2023-04-18,3,Respiratory,Surgery,3,12,2802.87,Government,Paid,No,5,No
+P10129,50,Male,Neurology,Emergency,2024-10-22,2024-10-27,5,Neurological,Surgery,7,23,3866.59,Government,Paid,No,5,Yes
+P11117,47,Male,Orthopedics,Walk-in,2023-01-29,2023-01-31,2,Fracture,Medication,0,25,322.05,Government,Pending,Yes,3,No
+P10623,44,Female,Emergency,Scheduled,2023-01-24,2023-01-30,6,Heart Disease,Observation,0,11,201.22,Government,Paid,No,1,No
+P11199,61,Female,Orthopedics,Scheduled,2023-10-09,2023-10-13,4,General,Medication,14,91,313.49,Private,Paid,No,3,No
+P10461,65,Female,Orthopedics,Walk-in,2023-10-18,2023-10-22,4,Fracture,Surgery,2,100,6271.07,Self Pay,Pending,Yes,4,No
+P10487,33,Male,Cardiology,Walk-in,2023-04-14,2023-04-20,6,General,Surgery,15,4,6788.17,Private,Paid,No,4,No
+P11156,44,Female,Neurology,Walk-in,2024-06-18,2024-06-24,6,Neurological,Surgery,11,25,2830.83,Private,Unpaid,No,5,No
+P10091,46,Male,General Medicine,Walk-in,2024-07-08,2024-07-12,4,Diabetes,Surgery,16,26,3176.68,Self Pay,Paid,No,3,No
+P10493,50,Male,Pediatrics,Emergency,2024-06-07,2024-06-09,2,Respiratory,Observation,0,19,276.21,Government,Paid,No,5,Yes
+P10171,39,Male,Pediatrics,Emergency,2023-02-12,2023-02-17,5,Respiratory,Therapy,17,33,541.91,Self Pay,Paid,No,4,Yes
+P10057,43,Male,Cardiology,Scheduled,2024-07-31,2024-08-02,2,General,Therapy,8,49,200.2,Private,Paid,No,5,No
+P10405,53,Female,Neurology,Emergency,2023-08-04,2023-08-09,5,General,Surgery,8,8,4414.66,Private,Paid,No,3,Yes
+P10600,22,Female,Emergency,Scheduled,2024-10-29,2024-11-01,3,General,Surgery,12,17,4368.97,Private,Paid,No,4,No
+P11016,12,Female,Cardiology,Emergency,2023-03-13,2023-03-15,2,General,Therapy,16,5,569.91,Government,Paid,No,2,Yes
+P10098,29,Male,Orthopedics,Walk-in,2024-10-13,2024-10-16,3,General,Surgery,12,32,2918.27,Self Pay,Paid,No,1,No
+P10827,65,Male,Emergency,Scheduled,2024-02-13,2024-02-18,5,Fracture,Medication,8,10,322.35,Government,Paid,No,3,No
+P10324,67,Male,Cardiology,Scheduled,2024-01-05,2024-01-10,5,Heart Disease,Therapy,14,49,455.98,Self Pay,Paid,No,2,No
+P11094,44,Male,Pediatrics,Scheduled,2023-01-13,2023-01-16,3,General,Therapy,6,1,588.53,Private,Paid,Yes,1,Yes
+P10099,30,Female,Cardiology,Walk-in,2024-08-16,2024-08-17,1,Heart Disease,Medication,5,33,244.93,Government,Paid,No,3,No
+P10425,47,Male,Pediatrics,Emergency,2024-05-30,2024-06-03,4,General,Surgery,5,40,4100.85,Self Pay,Paid,Yes,5,Yes
+P10297,60,Female,Neurology,Scheduled,2023-09-25,2023-09-28,3,General,Therapy,0,27,496.63,Government,Paid,Yes,3,No
+P10738,7,Female,Neurology,Walk-in,2024-12-26,2024-12-31,5,General,Medication,8,7,292.69,Private,Paid,No,2,No
+P11184,64,Female,Pediatrics,Emergency,2023-01-02,2023-01-05,3,Respiratory,Surgery,10,31,6360.53,Government,Paid,No,4,Yes
+P10903,24,Male,Pediatrics,Walk-in,2023-10-01,2023-10-05,4,General,Surgery,8,29,4372.31,Self Pay,Paid,No,3,No
+P10602,56,Male,Cardiology,Emergency,2024-07-25,2024-07-28,3,Heart Disease,Medication,0,9,363.48,Self Pay,Paid,No,4,Yes
+P11000,51,Female,Cardiology,Walk-in,2023-04-24,2023-04-26,2,Heart Disease,Medication,7,15,479.99,Private,Paid,No,2,No
+P10396,37,Female,Orthopedics,Scheduled,2023-02-10,2023-02-12,2,Fracture,Observation,0,24,189.49,Government,Paid,No,5,No
+P10427,36,Male,General Medicine,Scheduled,2023-12-25,2023-12-31,6,Diabetes,Therapy,21,7,252.12,Government,Pending,No,2,No
+P11181,62,Female,Neurology,Walk-in,2023-04-13,2023-04-15,2,General,Surgery,11,65,3340.94,Government,Paid,No,5,No
+P11039,93,Female,Pediatrics,Emergency,2024-11-10,2024-11-16,6,General,Medication,6,128,291.4,Private,Unpaid,No,4,Yes
+P10253,30,Female,General Medicine,Scheduled,2024-08-29,2024-09-04,6,Diabetes,Surgery,0,16,5163.89,Private,Paid,No,5,No
+P10239,65,Female,Neurology,Scheduled,2024-03-07,2024-03-13,6,Neurological,Therapy,2,83,561.36,Government,Unpaid,No,4,No
+P10845,17,Male,Orthopedics,Scheduled,2024-06-03,2024-06-07,4,General,Therapy,8,7,385.0,Private,Pending,No,3,No
+P10846,31,Female,Neurology,Walk-in,2024-08-13,2024-08-15,2,Neurological,Therapy,6,4,536.46,Government,Paid,No,4,No
+P10555,23,Male,Neurology,Walk-in,2024-09-10,2024-09-12,2,Neurological,Observation,9,11,222.37,Self Pay,Pending,No,4,No
+P10546,53,Female,Cardiology,Emergency,2023-01-05,2023-01-07,2,Heart Disease,Therapy,2,1,186.21,Government,Pending,Yes,5,Yes
+P10251,38,Male,Emergency,Scheduled,2023-04-28,2023-05-01,3,Fracture,Surgery,5,48,4672.2,Self Pay,Paid,No,3,No
+P10965,19,Male,General Medicine,Scheduled,2023-02-16,2023-02-20,4,Diabetes,Therapy,11,11,192.8,Private,Unpaid,No,5,No
+P10199,64,Female,General Medicine,Scheduled,2023-10-01,2023-10-02,1,General,Medication,5,29,390.34,Government,Paid,No,2,No
+P10898,21,Male,Pediatrics,Scheduled,2023-09-11,2023-09-18,7,Respiratory,Medication,11,7,401.28,Self Pay,Paid,Yes,4,No
+P11071,49,Male,Pediatrics,Emergency,2024-07-26,2024-07-29,3,General,Observation,0,6,390.34,Self Pay,Paid,Yes,2,Yes
+P10990,78,Male,Cardiology,Walk-in,2023-04-17,2023-04-19,2,Heart Disease,Observation,6,32,262.9,Private,Paid,No,5,No
+P11041,17,Male,General Medicine,Scheduled,2024-10-16,2024-10-21,5,General,Observation,20,6,200.98,Self Pay,Paid,No,3,No
+P10244,39,Female,General Medicine,Emergency,2024-11-20,2024-11-24,4,General,Therapy,12,26,657.35,Private,Paid,No,4,Yes
+P10067,46,Male,Orthopedics,Walk-in,2023-11-20,2023-11-23,3,Fracture,Surgery,0,35,3020.38,Private,Pending,No,4,No
+P11168,52,Male,Orthopedics,Walk-in,2023-01-11,2023-01-14,3,General,Observation,0,59,210.78,Private,Pending,No,3,No
+P10360,38,Female,Emergency,Scheduled,2023-04-29,2023-05-03,4,General,Medication,1,7,240.7,Self Pay,Paid,No,3,No
+P10096,44,Male,General Medicine,Emergency,2024-05-09,2024-05-12,3,Respiratory,Therapy,25,2,306.26,Self Pay,Paid,No,1,Yes
+P11190,60,Female,Pediatrics,Scheduled,2024-09-21,2024-09-27,6,Respiratory,Observation,11,39,199.28,Government,Paid,No,4,No
+P10522,3,Female,General Medicine,Scheduled,2023-06-20,2023-06-23,3,General,Medication,15,59,235.41,Self Pay,Paid,Yes,5,No
+P10975,51,Male,Emergency,Walk-in,2023-02-28,2023-03-03,3,Fracture,Surgery,12,21,5271.51,Private,Paid,No,4,No
+P10666,42,Male,Neurology,Scheduled,2024-12-24,2024-12-29,5,General,Surgery,1,8,4580.43,Government,Pending,No,2,No
+P10362,45,Male,Emergency,Scheduled,2024-09-24,2024-09-28,4,Fracture,Medication,4,12,326.82,Government,Paid,No,3,No
+P10485,66,Female,Orthopedics,Emergency,2024-11-02,2024-11-04,2,General,Medication,12,45,320.53,Government,Paid,No,4,Yes
+P10312,68,Female,General Medicine,Walk-in,2023-01-01,2023-01-05,4,Diabetes,Surgery,13,7,3709.53,Government,Pending,No,5,No
+P10843,7,Male,Emergency,Walk-in,2023-09-12,2023-09-16,4,General,Therapy,12,6,542.55,Private,Paid,Yes,5,No
+P10414,41,Female,Orthopedics,Emergency,2024-05-10,2024-05-11,1,Fracture,Observation,10,44,290.71,Private,Paid,No,1,Yes
+P10032,52,Male,General Medicine,Emergency,2023-10-11,2023-10-13,2,Respiratory,Surgery,4,240,3531.26,Self Pay,Unpaid,No,4,Yes
+P10766,72,Male,Neurology,Emergency,2024-01-20,2024-01-24,4,Neurological,Surgery,13,1,4130.42,Self Pay,Paid,No,5,Yes
+P10459,66,Male,Emergency,Emergency,2023-03-23,2023-03-27,4,General,Medication,11,1,211.08,Private,Paid,No,4,Yes
+P10340,69,Female,General Medicine,Walk-in,2023-07-01,2023-07-03,2,General,Therapy,17,28,677.39,Government,Paid,No,5,No
+P10287,64,Male,Neurology,Scheduled,2024-06-20,2024-06-22,2,Neurological,Observation,3,1,257.76,Government,Paid,Yes,5,No
+P10950,49,Male,General Medicine,Walk-in,2023-03-10,2023-03-13,3,Respiratory,Therapy,8,7,542.88,Private,Paid,No,3,No
+P10140,0,Male,Emergency,Walk-in,2024-06-23,2024-06-29,6,Respiratory,Surgery,4,240,3933.2,Self Pay,Paid,No,5,No
+P10849,54,Male,Cardiology,Walk-in,2023-12-08,2023-12-12,4,General,Surgery,16,28,5431.43,Private,Unpaid,Yes,5,No
+P11026,46,Female,Orthopedics,Scheduled,2023-08-13,2023-08-18,5,General,Surgery,7,29,6347.96,Government,Paid,No,3,No
+P10901,58,Male,Pediatrics,Emergency,2023-04-12,2023-04-16,4,General,Observation,7,59,157.66,Private,Paid,No,5,Yes
+P10732,49,Female,Emergency,Scheduled,2024-12-29,2024-12-30,1,Respiratory,Observation,15,104,362.73,Private,Paid,No,5,No
+P10265,43,Male,Neurology,Emergency,2024-06-10,2024-06-13,3,General,Medication,7,5,110.6,Government,Pending,Yes,5,Yes
+P10275,91,Female,Neurology,Emergency,2023-05-21,2023-05-24,3,Neurological,Medication,11,78,298.04,Self Pay,Paid,No,4,Yes
+P11095,62,Male,Neurology,Scheduled,2024-05-06,2024-05-11,5,Neurological,Medication,16,8,341.62,Government,Pending,No,5,No
+P10445,41,Female,Cardiology,Walk-in,2023-03-22,2023-03-23,1,Heart Disease,Medication,10,46,290.63,Government,Paid,No,5,No
+P10040,47,Female,Cardiology,Emergency,2024-12-26,2024-12-31,5,Heart Disease,Therapy,9,97,602.96,Government,Paid,No,3,Yes
+P10022,60,Male,Pediatrics,Walk-in,2023-04-11,2023-04-18,7,Respiratory,Medication,11,1,388.98,Private,Paid,No,3,No
+P10706,44,Female,Emergency,Emergency,2024-10-13,2024-10-18,5,Heart Disease,Surgery,1,4,1969.23,Private,Paid,Yes,3,Yes
+P10518,52,Female,Cardiology,Emergency,2023-10-04,2023-10-08,4,Heart Disease,Surgery,4,15,5069.64,Private,Paid,No,4,Yes
+P10355,55,Male,Emergency,Scheduled,2024-01-18,2024-01-23,5,Heart Disease,Medication,8,91,179.72,Self Pay,Paid,No,3,No
+P10298,39,Male,Pediatrics,Emergency,2023-04-22,2023-04-29,7,Respiratory,Observation,8,9,213.46,Government,Paid,Yes,4,Yes
+P11077,36,Female,Cardiology,Emergency,2024-07-18,2024-07-21,3,General,Medication,13,14,338.66,Private,Paid,No,4,Yes
+P10840,39,Male,Cardiology,Scheduled,2023-03-03,2023-03-08,5,General,Therapy,21,1,334.4,Private,Paid,No,1,No
+P10925,53,Male,Neurology,Walk-in,2023-04-25,2023-04-30,5,Neurological,Surgery,9,23,3087.47,Government,Paid,No,5,No
+P10123,75,Female,Neurology,Walk-in,2024-11-25,2024-11-28,3,General,Medication,20,2,261.93,Private,Paid,No,1,No
+P11092,27,Male,General Medicine,Emergency,2024-04-23,2024-04-26,3,Diabetes,Therapy,7,13,285.63,Self Pay,Unpaid,Yes,3,Yes
+P10418,21,Male,Orthopedics,Emergency,2024-03-26,2024-03-29,3,Fracture,Therapy,11,4,299.15,Private,Paid,No,4,Yes
+P10967,43,Female,Orthopedics,Scheduled,2023-01-25,2023-01-30,5,Fracture,Therapy,14,56,111.54,Private,Paid,No,5,No
+P10158,83,Female,General Medicine,Emergency,2023-12-26,2024-01-02,7,General,Therapy,15,25,553.83,Self Pay,Unpaid,No,5,Yes
+P11064,36,Female,Emergency,Emergency,2023-07-04,2023-07-08,4,Respiratory,Therapy,12,58,657.71,Self Pay,Paid,No,1,Yes
+P10190,45,Female,Emergency,Emergency,2023-09-20,2023-09-27,7,Heart Disease,Therapy,9,21,390.34,Self Pay,Paid,Yes,4,Yes
+P10590,49,Male,Cardiology,Scheduled,2024-10-09,2024-10-14,5,General,Medication,3,40,522.26,Government,Pending,No,3,No
+P10761,65,Female,Pediatrics,Walk-in,2023-07-13,2023-07-16,3,Respiratory,Medication,13,24,386.39,Self Pay,Unpaid,No,1,No
+P11063,49,Female,Emergency,Walk-in,2023-05-24,2023-05-31,7,Respiratory,Observation,10,11,338.71,Private,Unpaid,No,4,No
+P10243,40,Male,Orthopedics,Walk-in,2024-08-29,2024-09-02,4,Fracture,Observation,7,1,68.04,Self Pay,Paid,No,5,No
+P10885,45,Male,Emergency,Emergency,2024-02-18,2024-02-21,3,Fracture,Surgery,10,21,3322.04,Government,Paid,No,5,Yes
+P10621,63,Female,Emergency,Scheduled,2024-06-28,2024-07-03,5,Respiratory,Medication,16,131,371.54,Private,Pending,No,4,No
+P10651,54,Male,Cardiology,Emergency,2023-09-17,2023-09-21,4,General,Medication,22,33,408.56,Private,Pending,No,3,Yes
+P10504,77,Female,Emergency,Scheduled,2023-04-24,2023-04-26,2,General,Medication,6,33,176.74,Government,Paid,No,3,No
+P10923,26,Female,Cardiology,Scheduled,2023-10-03,2023-10-08,5,General,Observation,14,5,71.65,Private,Paid,Yes,1,No
+P10160,22,Female,Orthopedics,Scheduled,2024-10-22,2024-10-25,3,General,Medication,16,45,273.5,Self Pay,Paid,No,4,No
+P10883,75,Male,Orthopedics,Scheduled,2024-10-28,2024-11-01,4,Fracture,Surgery,5,32,1981.7,Government,Unpaid,No,5,No
+P10538,45,Unknown,Neurology,Scheduled,2023-09-18,2023-09-24,6,General,Therapy,9,21,390.34,Private,Paid,No,4,No
+P10241,34,Male,General Medicine,Scheduled,2024-10-28,2024-11-02,5,Respiratory,Surgery,9,40,3689.39,Government,Paid,No,5,No
+P10014,39,Female,Pediatrics,Scheduled,2023-01-01,2023-01-03,2,Respiratory,Medication,0,7,336.28,Government,Pending,No,3,No
+P10476,80,Female,Cardiology,Walk-in,2024-08-18,2024-08-21,3,Heart Disease,Therapy,7,43,472.78,Private,Paid,No,4,No
+P11160,41,Female,Pediatrics,Emergency,2023-01-14,2023-01-17,3,General,Observation,0,21,390.34,Government,Paid,No,3,Yes
+P10929,43,Female,Pediatrics,Scheduled,2023-12-22,2023-12-26,4,Respiratory,Observation,18,10,103.17,Private,Paid,No,5,No
+P10796,62,Male,Neurology,Scheduled,2024-01-20,2024-01-24,4,Neurological,Medication,12,43,256.15,Government,Paid,No,4,No
+P10356,17,Male,Neurology,Scheduled,2023-05-13,2023-05-17,4,General,Surgery,16,20,1003.63,Private,Pending,No,3,No
+P11059,44,Female,Pediatrics,Scheduled,2023-07-25,2023-08-01,7,General,Therapy,0,56,792.94,Self Pay,Paid,No,4,No
+P10335,55,Male,Neurology,Scheduled,2024-01-17,2024-01-20,3,General,Therapy,9,30,695.54,Government,Pending,No,4,No
+P10689,59,Female,Orthopedics,Walk-in,2023-06-14,2023-06-18,4,General,Observation,6,19,148.67,Private,Paid,Yes,5,No
+P10185,94,Female,General Medicine,Emergency,2023-11-18,2023-11-23,5,Respiratory,Surgery,8,43,4014.49,Government,Paid,No,4,Yes
+P10824,52,Male,Emergency,Scheduled,2023-07-07,2023-07-12,5,Fracture,Surgery,8,24,4898.84,Private,Paid,No,3,No
+P11144,60,Female,Emergency,Scheduled,2023-08-30,2023-09-01,2,General,Medication,11,12,377.96,Private,Paid,Yes,2,Yes
+P11002,44,Female,Emergency,Scheduled,2024-03-05,2024-03-10,5,General,Surgery,8,15,3555.09,Private,Paid,No,4,No
+P10188,53,Male,Neurology,Walk-in,2023-10-23,2023-10-25,2,General,Therapy,5,158,489.04,Government,Paid,No,5,No
+P10942,79,Male,Cardiology,Emergency,2023-05-16,2023-05-19,3,General,Surgery,7,26,5129.86,Self Pay,Paid,No,1,Yes
+P10285,30,Male,Emergency,Emergency,2024-11-04,2024-11-09,5,Fracture,Surgery,15,20,3027.4,Self Pay,Paid,No,3,Yes
+P10900,64,Male,Cardiology,Walk-in,2023-05-07,2023-05-09,2,General,Observation,5,3,225.23,Private,Paid,No,5,No
+P10166,52,Male,Neurology,Walk-in,2024-04-23,2024-04-27,4,Neurological,Medication,9,8,200.21,Government,Paid,No,4,No
+P10348,49,Female,Orthopedics,Walk-in,2024-12-03,2024-12-08,5,General,Therapy,14,26,463.37,Private,Pending,No,3,No
+P10299,64,Female,Orthopedics,Scheduled,2024-04-07,2024-04-08,1,General,Medication,5,21,169.89,Private,Paid,No,5,No
+P10536,48,Male,Orthopedics,Walk-in,2024-09-16,2024-09-20,4,General,Surgery,17,12,3372.49,Private,Paid,No,5,No
+P10230,70,Female,Pediatrics,Emergency,2024-05-01,2024-05-06,5,Respiratory,Therapy,15,70,425.14,Self Pay,Paid,Yes,5,Yes
+P10042,35,Female,General Medicine,Walk-in,2024-11-11,2024-11-12,1,General,Surgery,6,3,5189.44,Self Pay,Paid,No,5,No
+P10869,56,Female,General Medicine,Walk-in,2023-03-31,2023-04-03,3,General,Observation,14,41,266.79,Private,Pending,No,4,No
+P10749,65,Male,Orthopedics,Scheduled,2024-08-18,2024-08-22,4,General,Therapy,7,0,397.47,Self Pay,Pending,No,4,No
+P11178,15,Male,Pediatrics,Walk-in,2024-12-15,2024-12-20,5,Respiratory,Surgery,11,5,3217.68,Self Pay,Paid,No,5,No
+P10447,69,Male,General Medicine,Walk-in,2024-05-04,2024-05-07,3,Respiratory,Observation,8,49,150.47,Self Pay,Pending,No,2,No
+P10350,58,Female,Neurology,Walk-in,2024-01-16,2024-01-22,6,General,Observation,6,17,260.17,Private,Paid,No,4,No
+P10046,66,Female,Cardiology,Emergency,2023-04-20,2023-04-23,3,Heart Disease,Observation,16,47,255.42,Private,Paid,No,2,Yes
+P11183,38,Male,General Medicine,Scheduled,2024-06-30,2024-07-06,6,Respiratory,Medication,8,111,311.31,Private,Pending,No,3,No
+P10109,46,Female,Orthopedics,Emergency,2023-05-14,2023-05-19,5,Fracture,Medication,11,7,239.56,Private,Paid,No,3,Yes
+P10030,66,Female,Emergency,Walk-in,2024-07-21,2024-07-28,7,Fracture,Surgery,18,31,4010.23,Government,Paid,Yes,4,No
+P10182,27,Female,Pediatrics,Walk-in,2024-06-29,2024-07-01,2,General,Observation,10,10,249.57,Private,Paid,No,5,No
+P10622,21,Male,Neurology,Emergency,2023-03-20,2023-03-25,5,General,Medication,8,12,114.46,Self Pay,Paid,No,3,Yes
+P10635,29,Male,Pediatrics,Walk-in,2023-03-31,2023-04-05,5,General,Observation,7,31,207.17,Government,Paid,No,5,No
+P10105,48,Male,Pediatrics,Scheduled,2024-03-05,2024-03-08,3,Respiratory,Observation,4,9,340.39,Self Pay,Paid,No,1,No
+P10061,57,Male,General Medicine,Scheduled,2024-12-25,2024-12-31,6,Diabetes,Therapy,18,36,424.11,Self Pay,Pending,No,4,No
+P10659,21,Male,Cardiology,Scheduled,2023-05-03,2023-05-07,4,General,Medication,20,5,264.44,Self Pay,Unpaid,No,2,No
+P11108,39,Male,General Medicine,Emergency,2023-01-16,2023-01-19,3,Respiratory,Therapy,1,9,498.94,Self Pay,Pending,No,2,Yes
+P10491,73,Female,Emergency,Scheduled,2023-09-18,2023-09-21,3,General,Observation,13,22,248.68,Private,Pending,No,4,No
+P10316,48,Female,Cardiology,Walk-in,2024-12-19,2024-12-24,5,Heart Disease,Surgery,0,32,5249.64,Self Pay,Paid,No,4,No
+P10382,33,Female,Pediatrics,Walk-in,2024-09-12,2024-09-16,4,General,Observation,18,1,244.08,Self Pay,Unpaid,No,3,No
+P10423,47,Female,Emergency,Emergency,2024-06-07,2024-06-10,3,Respiratory,Observation,3,69,288.46,Self Pay,Paid,No,4,Yes
+P11187,18,Male,General Medicine,Scheduled,2023-01-13,2023-01-16,3,Diabetes,Observation,11,17,84.34,Self Pay,Paid,No,5,No
+P10446,44,Female,Pediatrics,Emergency,2023-10-09,2023-10-14,5,General,Observation,3,70,265.41,Private,Pending,Yes,4,Yes
+P10664,4,Female,General Medicine,Walk-in,2023-07-26,2023-07-31,5,Respiratory,Observation,6,1,229.07,Self Pay,Paid,No,5,No
+P11025,38,Male,Orthopedics,Scheduled,2024-05-14,2024-05-18,4,Fracture,Therapy,0,10,278.7,Government,Pending,No,5,No
+P10780,19,Female,Orthopedics,Emergency,2024-06-19,2024-06-22,3,Fracture,Therapy,0,58,701.3,Self Pay,Paid,No,5,Yes
+P10627,64,Male,Emergency,Emergency,2023-06-07,2023-06-10,3,Fracture,Medication,13,5,308.27,Government,Paid,No,4,Yes
+P11113,51,Female,General Medicine,Emergency,2023-06-30,2023-07-04,4,Diabetes,Therapy,2,77,601.01,Government,Paid,No,5,Yes
+P11102,27,Male,Orthopedics,Walk-in,2024-01-23,2024-01-24,1,Fracture,Observation,14,45,132.17,Self Pay,Paid,Yes,5,No
+P10930,63,Female,Orthopedics,Walk-in,2024-09-05,2024-09-08,3,Fracture,Therapy,7,82,395.8,Private,Unpaid,Yes,5,No
+P11148,53,Female,Neurology,Scheduled,2024-06-15,2024-06-19,4,General,Surgery,15,82,4012.4,Government,Unpaid,No,5,No
+P11120,47,Male,Emergency,Scheduled,2023-08-16,2023-08-20,4,Heart Disease,Therapy,17,34,624.82,Government,Paid,No,4,No
+P10012,52,Male,Cardiology,Walk-in,2024-11-27,2024-12-01,4,General,Therapy,5,79,412.19,Private,Paid,No,1,No
+P10115,16,Female,General Medicine,Scheduled,2023-11-17,2023-11-25,8,Diabetes,Observation,13,3,215.55,Private,Paid,Yes,4,No
+P10844,35,Male,Orthopedics,Emergency,2023-02-23,2023-02-27,4,Fracture,Medication,0,3,245.6,Private,Paid,No,5,Yes
+P10353,55,Male,Orthopedics,Emergency,2023-11-17,2023-11-19,2,General,Therapy,3,64,599.86,Private,Pending,No,5,Yes
+P10774,45,Male,Neurology,Walk-in,2023-01-17,2023-01-19,2,Neurological,Observation,0,48,109.37,Private,Unpaid,No,4,No
+P10691,55,Female,Pediatrics,Walk-in,2023-12-01,2023-12-05,4,Respiratory,Medication,9,14,209.65,Self Pay,Paid,No,5,No
+P10791,35,Female,Orthopedics,Walk-in,2023-11-16,2023-11-17,1,General,Therapy,16,23,707.23,Self Pay,Pending,No,2,No
+P10868,33,Female,Emergency,Scheduled,2023-04-13,2023-04-16,3,Heart Disease,Surgery,10,6,6748.32,Self Pay,Pending,No,5,Yes
+P10170,36,Male,Pediatrics,Walk-in,2024-06-30,2024-07-06,6,Respiratory,Surgery,1,54,6449.41,Private,Paid,No,4,No
+P10240,45,Unknown,General Medicine,Scheduled,2023-04-20,2023-04-26,6,Diabetes,Observation,9,21,390.34,Government,Pending,No,4,No
+P11185,29,Male,Neurology,Scheduled,2024-01-29,2024-02-01,3,Neurological,Therapy,7,6,607.15,Government,Paid,No,1,No
+P10074,65,Female,Orthopedics,Scheduled,2023-01-03,2023-01-06,3,General,Therapy,4,31,258.01,Private,Paid,No,5,No
+P11087,19,Female,General Medicine,Emergency,2024-10-27,2024-11-01,5,Diabetes,Observation,12,12,169.8,Private,Paid,No,3,Yes
+P10762,69,Female,Orthopedics,Emergency,2024-12-23,2024-12-27,4,General,Observation,5,10,297.49,Self Pay,Paid,No,1,Yes
+P10741,31,Female,General Medicine,Emergency,2024-06-12,2024-06-18,6,Respiratory,Surgery,6,47,3405.14,Private,Pending,No,2,Yes
+P10751,59,Male,Cardiology,Scheduled,2024-03-11,2024-03-13,2,Heart Disease,Observation,10,11,225.23,Private,Paid,No,4,No
+P10831,64,Male,Orthopedics,Walk-in,2024-03-28,2024-03-29,1,Fracture,Observation,5,1,202.06,Self Pay,Paid,Yes,1,No
+P10048,61,Female,Emergency,Walk-in,2023-10-11,2023-10-13,2,Heart Disease,Therapy,13,3,737.63,Government,Paid,No,3,No
+P10763,60,Female,General Medicine,Emergency,2023-07-04,2023-07-11,7,General,Therapy,4,52,454.97,Government,Paid,Yes,2,Yes
+P10592,11,Male,Emergency,Emergency,2023-07-14,2023-07-16,2,Heart Disease,Medication,20,16,405.0,Self Pay,Unpaid,No,4,Yes
+P10808,58,Male,Orthopedics,Scheduled,2024-03-28,2024-03-30,2,Fracture,Therapy,12,16,443.07,Private,Paid,No,4,No
+P11084,45,Unknown,Neurology,Walk-in,2023-08-14,2023-08-17,3,General,Therapy,9,21,390.34,Self Pay,Paid,No,4,No
+P10506,76,Female,Neurology,Emergency,2023-07-25,2023-07-28,3,General,Medication,17,24,234.47,Private,Paid,No,5,Yes
+P11045,41,Male,Pediatrics,Scheduled,2023-05-07,2023-05-10,3,General,Medication,7,6,373.39,Government,Paid,No,1,No
+P10653,59,Male,Orthopedics,Walk-in,2024-05-27,2024-06-04,8,Fracture,Medication,6,3,313.34,Self Pay,Pending,No,5,No
+P10193,21,Female,Neurology,Walk-in,2023-11-25,2023-11-29,4,Neurological,Medication,9,11,281.84,Self Pay,Paid,No,5,No
+P10245,59,Female,General Medicine,Walk-in,2023-03-17,2023-03-20,3,Respiratory,Observation,6,1,204.9,Self Pay,Paid,No,4,No
+P10060,75,Female,Neurology,Emergency,2023-03-12,2023-03-14,2,General,Observation,11,44,343.32,Private,Paid,No,5,Yes
+P10177,21,Male,Neurology,Scheduled,2023-02-19,2023-02-24,5,General,Observation,2,33,317.08,Government,Paid,No,4,No
+P10450,0,Female,General Medicine,Scheduled,2024-12-18,2024-12-23,5,Respiratory,Therapy,7,13,378.44,Government,Paid,Yes,4,No
+P10056,82,Male,Cardiology,Emergency,2024-10-29,2024-11-02,4,Heart Disease,Surgery,2,80,6564.04,Private,Paid,No,4,Yes
+P10920,47,Male,Emergency,Scheduled,2024-03-15,2024-03-17,2,Fracture,Surgery,22,111,2060.43,Private,Unpaid,No,4,No
+P11093,45,Female,Pediatrics,Walk-in,2023-10-30,2023-11-03,4,General,Medication,9,21,390.34,Self Pay,Paid,No,4,No
+P11193,9,Male,General Medicine,Emergency,2023-09-12,2023-09-17,5,General,Medication,6,1,67.34,Private,Pending,No,4,Yes
+P11060,45,Male,General Medicine,Scheduled,2024-12-15,2024-12-17,2,Respiratory,Observation,5,12,235.99,Private,Paid,No,4,Yes
+P10642,54,Male,Pediatrics,Scheduled,2024-08-12,2024-08-15,3,Respiratory,Medication,17,36,357.14,Private,Paid,No,2,No
