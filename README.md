@@ -2,7 +2,7 @@
 
 A beginner-to-intermediate Data Analyst portfolio project covering the full
 pipeline: synthetic data generation → Python cleaning → SQL analysis →
-Power BI star-schema modeling → DAX measures → a 3-page executive dashboard.
+Power BI star-schema modeling → DAX measures → a executive dashboard.
 
 > **Data note:** All data in this project is 100% synthetic and randomly
 > generated for portfolio purposes. There are no real patients, no real
